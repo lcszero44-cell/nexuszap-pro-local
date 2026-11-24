@@ -1,0 +1,3577 @@
+[
+  {
+    "envelope": {
+      "id": "24ae5f6a-c74a-4691-b654-9a3e149d30d9",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:36:10.496Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@qtj4/7CoHWGb0iijDMYP0PWtiOBXKDunBDpi2mmELV0YrcR2TdJ+gYwpkujefWtEloABDHKQkxsxMLmCT08RiNGIGYMrTuGMuGQ=,cnvUeyo9E2+LNn8LfiD3DQfSvfmk3h4lTfidoS2A1gw=,p9AfAvCBmD7pGgBBaLuBRB43bN4PCHaAwIovfNyb/z0=,3vzNgElEMr41FElnMmfDrXj0NLKyL3t9sxNiCIRK/No=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794785770497
+  },
+  {
+    "envelope": {
+      "id": "89b95fb1-68ad-4c64-8eec-7e788ca413bf",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:37:10.506Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@fqqgKiFhwv8pjG6Q4/QDb+H3KgSS9CKJN22lmvCRdHBRDjJqaDQOlfOzWD3uFNRr6Zw4qr5bHESGW+zxqJOJoiGI+xvtJeZKMNg=,cnvUeyo9E2+LNn8LfiD3DQfSvfmk3h4lTfidoS2A1gw=,p9AfAvCBmD7pGgBBaLuBRB43bN4PCHaAwIovfNyb/z0=,3vzNgElEMr41FElnMmfDrXj0NLKyL3t9sxNiCIRK/No=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794785830507
+  },
+  {
+    "envelope": {
+      "id": "41e5f7ee-d23e-4a63-acf8-f03dd4552b4e",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:37:30.515Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@Ey+FsttJPPorjjsDSEROIXBR8K9Wsa2efwC70D1q+j9OPoEHUVQhWsGfu30xsWfAmOEeOId2wHOuiZ2aZyA4uKyGm9GVOXC8VQI=,cnvUeyo9E2+LNn8LfiD3DQfSvfmk3h4lTfidoS2A1gw=,p9AfAvCBmD7pGgBBaLuBRB43bN4PCHaAwIovfNyb/z0=,3vzNgElEMr41FElnMmfDrXj0NLKyL3t9sxNiCIRK/No=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794785850515
+  },
+  {
+    "envelope": {
+      "id": "7110f60e-0789-4057-a5ed-f02e7157c02b",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:37:50.531Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@6BudJ7lzj1NAt5QwFhOwf8txZXCXfCg6/qFepG56XT3Wgp7cju4pzS/O5s5Pd96FwEUfISvg69X3ah77wwoMc/AIogLJNZOqxec=,cnvUeyo9E2+LNn8LfiD3DQfSvfmk3h4lTfidoS2A1gw=,p9AfAvCBmD7pGgBBaLuBRB43bN4PCHaAwIovfNyb/z0=,3vzNgElEMr41FElnMmfDrXj0NLKyL3t9sxNiCIRK/No=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794785870532
+  },
+  {
+    "envelope": {
+      "id": "27a52105-88df-4065-88c1-0de2a13e59d9",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:38:10.544Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@jYBH4FKdGxA1W2cJDn80BZVk4w+pScr1Z8GnHDNYPSke26/AAROBAEjeJYm0Gl/qjuB7/WeJX1RTXxo4fsIjiL+kQa8D+k3d5gI=,cnvUeyo9E2+LNn8LfiD3DQfSvfmk3h4lTfidoS2A1gw=,p9AfAvCBmD7pGgBBaLuBRB43bN4PCHaAwIovfNyb/z0=,3vzNgElEMr41FElnMmfDrXj0NLKyL3t9sxNiCIRK/No=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794785890545
+  },
+  {
+    "envelope": {
+      "id": "8e0ab7b6-a2a0-4116-8ae0-6e7007e99d5c",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:38:30.559Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@7QsSbhs1Z2UXRdf5TPIZTkDi2o8qVfRyTMYbLRywGObYNE7tgwdslImLGhPP9twjvOax5sRykLjwujncPIxtSgTnxklG6n+nSeQ=,cnvUeyo9E2+LNn8LfiD3DQfSvfmk3h4lTfidoS2A1gw=,p9AfAvCBmD7pGgBBaLuBRB43bN4PCHaAwIovfNyb/z0=,3vzNgElEMr41FElnMmfDrXj0NLKyL3t9sxNiCIRK/No=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794785910560
+  },
+  {
+    "envelope": {
+      "id": "ef512459-d71b-4773-9061-fa10af971810",
+      "event": "instance.connection",
+      "timestamp": "2026-11-15T23:38:50.856Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "status": "disconnected",
+        "reason": "QR refs attempts ended"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794785930858
+  },
+  {
+    "envelope": {
+      "id": "2099a3ab-62a1-499e-9056-97f73921b338",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:39:51.598Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@U6idwIVA8XmK+uXP87uC2kV0kfm9P0CBPsJItfSXsyNS4QyRA0bTxYzNPLsXnij4Jvpbnh8wd+B87Por/jeLiOW6BEIvM9djaKQ=,cwsQZdpi8IM5xKhL/X8f+WuIqfMWL0nBc1fdn1iDgzE=,zfKYphaWf8IY/8M/VyIIGNc5w/Qy1c6VdGI4WCFFT2M=,kpFHBQFbrExM8MkHOtzOIZoYLQg9FyWpur4NCDtYpHI=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794785991599
+  },
+  {
+    "envelope": {
+      "id": "fecf3ca4-1ef1-4fa4-84c8-86ccd5827e47",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:40:51.618Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@OX33pski1jzzXUHZcRKHgJ/NukFWvrquznT2htEK+M4xV90Gy6HjkEhjyjBvtMnvaN9Ksd2Mp2yFX0s3H7hV/LTuENVC0dqD9iQ=,cwsQZdpi8IM5xKhL/X8f+WuIqfMWL0nBc1fdn1iDgzE=,zfKYphaWf8IY/8M/VyIIGNc5w/Qy1c6VdGI4WCFFT2M=,kpFHBQFbrExM8MkHOtzOIZoYLQg9FyWpur4NCDtYpHI=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786051619
+  },
+  {
+    "envelope": {
+      "id": "9f63d9b4-5c6c-43be-ac9e-fb0b36c50639",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:41:11.632Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@jDFKDzEomat4exbJfTRUVt6lUosfeIAWzN7OEVSPOJfO+sikWXpw20cvGr2XV3oPxxO2865Dwoi613pmJP3UQinTD1vCRmr3Gak=,cwsQZdpi8IM5xKhL/X8f+WuIqfMWL0nBc1fdn1iDgzE=,zfKYphaWf8IY/8M/VyIIGNc5w/Qy1c6VdGI4WCFFT2M=,kpFHBQFbrExM8MkHOtzOIZoYLQg9FyWpur4NCDtYpHI=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786071632
+  },
+  {
+    "envelope": {
+      "id": "4293289d-857a-4e74-a8d0-9c91f8db97bf",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:41:31.642Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@vjh5hnhbQUqh0W3jC/iBYNbXJh0PeHDRdeQ37v1pUC+aRb7tFSCZBcQhROkeDzsXGek7hfdCR6rpNtq67FnupNCjkzCgy0Lzjzc=,cwsQZdpi8IM5xKhL/X8f+WuIqfMWL0nBc1fdn1iDgzE=,zfKYphaWf8IY/8M/VyIIGNc5w/Qy1c6VdGI4WCFFT2M=,kpFHBQFbrExM8MkHOtzOIZoYLQg9FyWpur4NCDtYpHI=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786091644
+  },
+  {
+    "envelope": {
+      "id": "1226a8ff-99d0-4346-8daa-ee47aa3dbc7a",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:41:51.665Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@npmrhyzZichX3/7MGhWr6v1jn6jUW2IJQyYocB+iqJZ4gE20ZJvjrjIOeWrO3yO0TWM7CbKu2U+XcXH8OrX1jb2zewvuUioPkSY=,cwsQZdpi8IM5xKhL/X8f+WuIqfMWL0nBc1fdn1iDgzE=,zfKYphaWf8IY/8M/VyIIGNc5w/Qy1c6VdGI4WCFFT2M=,kpFHBQFbrExM8MkHOtzOIZoYLQg9FyWpur4NCDtYpHI=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786111666
+  },
+  {
+    "envelope": {
+      "id": "a8b967d8-b936-497b-b903-ee5e7ac655d9",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:42:11.683Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@A6EWSXPi6wDCwKKphJXgyjlXQ7arMS5yAFgsHLBfiWjS8l0aSMPFII99+sq6/ewevrZVwXSwtEsT7/PdzYSfbm1WFgdnbBJzVs8=,cwsQZdpi8IM5xKhL/X8f+WuIqfMWL0nBc1fdn1iDgzE=,zfKYphaWf8IY/8M/VyIIGNc5w/Qy1c6VdGI4WCFFT2M=,kpFHBQFbrExM8MkHOtzOIZoYLQg9FyWpur4NCDtYpHI=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786131683
+  },
+  {
+    "envelope": {
+      "id": "167b625b-87db-4d43-8334-d552227dd462",
+      "event": "instance.connection",
+      "timestamp": "2026-11-15T23:42:31.982Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "status": "disconnected",
+        "reason": "QR refs attempts ended"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786151983
+  },
+  {
+    "envelope": {
+      "id": "9bd2ecd0-d81d-4fad-ad1b-42229496b2b4",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:43:32.921Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@DdmavhSqSqa2HpItLjlcIX9B5pnXJxGA4JnhLGtD+c3KtuwEVT5Damngt2tBpFBJ1iu0GlsxhUnpplzd3AunHMr/n3Raa23v4mU=,c6ruDrW404Q/azriVMhmF+OARgXaRErwwfHTYb1L4Qs=,J1ovZMYYpBg6cTHU4Czwmk3zmBmLS8MDQpSy/kD1eGk=,7PnntZ7Ok8wNs8+2nWsBwU9urWucs/FdOazQCGPidxg=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786212922
+  },
+  {
+    "envelope": {
+      "id": "bd5391d6-7428-454b-a0d0-6d72ff3ce3d7",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:44:32.937Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@qtRA0SvApry34ahgQKXP33AF6RkUK34zgev1FHJvYRMujKpWXZWu1dtxOIaXVRWmt/5RW/Kdjl804x1fuj19R6MyHIkDFAxbKOE=,c6ruDrW404Q/azriVMhmF+OARgXaRErwwfHTYb1L4Qs=,J1ovZMYYpBg6cTHU4Czwmk3zmBmLS8MDQpSy/kD1eGk=,7PnntZ7Ok8wNs8+2nWsBwU9urWucs/FdOazQCGPidxg=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786272937
+  },
+  {
+    "envelope": {
+      "id": "7fa6c342-3c45-4af8-a66f-e9d87de16cf6",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:44:52.959Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@v3SbMnb8Bill8zV96YuUASJpEp0ybskxFDmF/3l95gkxnBd4xGnayPujSzKVjtzOqt6UWzmRi3Tq3rkt0zvoGAfcaGAWA+hJJyk=,c6ruDrW404Q/azriVMhmF+OARgXaRErwwfHTYb1L4Qs=,J1ovZMYYpBg6cTHU4Czwmk3zmBmLS8MDQpSy/kD1eGk=,7PnntZ7Ok8wNs8+2nWsBwU9urWucs/FdOazQCGPidxg=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786292960
+  },
+  {
+    "envelope": {
+      "id": "f82d2532-ccbe-4fb1-9717-113cfafe2100",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:45:12.965Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@0mPvfnV/M9bYzXgh5GhnHXQjkdIoPBaWNEZJEeqlBHr42aZzzu7Zro5OKxCH7onSQWMJG6Dyeznyx4zHYssKw3T+fysklxyfASE=,c6ruDrW404Q/azriVMhmF+OARgXaRErwwfHTYb1L4Qs=,J1ovZMYYpBg6cTHU4Czwmk3zmBmLS8MDQpSy/kD1eGk=,7PnntZ7Ok8wNs8+2nWsBwU9urWucs/FdOazQCGPidxg=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786312966
+  },
+  {
+    "envelope": {
+      "id": "c2cea506-5eb3-42c3-b9ec-63cbe26a8b9e",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:45:32.984Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@HwMiubUm5BAAjStsuY9O1qFZzqmfSnUtVuYMlgQwENsLMZde92aMXnhsYTAywzGFQ0ZGYGD/4tIbly8GLfMnt+OqkVMMDAUHUMo=,c6ruDrW404Q/azriVMhmF+OARgXaRErwwfHTYb1L4Qs=,J1ovZMYYpBg6cTHU4Czwmk3zmBmLS8MDQpSy/kD1eGk=,7PnntZ7Ok8wNs8+2nWsBwU9urWucs/FdOazQCGPidxg=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786332985
+  },
+  {
+    "envelope": {
+      "id": "857099f7-f313-4ac4-85ed-fed3d6785f61",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:45:52.994Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@TS3t8vlnd7gcfCwufwKMPQdrPBLRbVfk5sjn61w9fPNpBKcKoEWNcjABPOXGkfwf3haC39o83uu/G4H+ZS2GGvvP/KnmmQWwpic=,c6ruDrW404Q/azriVMhmF+OARgXaRErwwfHTYb1L4Qs=,J1ovZMYYpBg6cTHU4Czwmk3zmBmLS8MDQpSy/kD1eGk=,7PnntZ7Ok8wNs8+2nWsBwU9urWucs/FdOazQCGPidxg=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786352995
+  },
+  {
+    "envelope": {
+      "id": "810c9139-0107-4a6e-bbe9-ae5656939f45",
+      "event": "instance.connection",
+      "timestamp": "2026-11-15T23:46:08.759Z",
+      "data": {
+        "instanceId": "wpp",
+        "name": "wpp",
+        "status": "disconnected",
+        "reason": "Stream Errored (ack)"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786368759
+  },
+  {
+    "envelope": {
+      "id": "becdcc85-bfe7-4350-901e-b7813b4453e2",
+      "event": "instance.connection",
+      "timestamp": "2026-11-15T23:46:11.845Z",
+      "data": {
+        "instanceId": "wpp",
+        "name": "wpp",
+        "status": "connected",
+        "phone": "553491029433"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786371851
+  },
+  {
+    "envelope": {
+      "id": "b87015be-5a3a-43d2-8d1b-6c388990688a",
+      "event": "instance.connection",
+      "timestamp": "2026-11-15T23:46:13.357Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "status": "disconnected",
+        "reason": "QR refs attempts ended"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786373374
+  },
+  {
+    "envelope": {
+      "id": "6693eb85-44fd-4f3b-9c1d-8b4fc2a3cdad",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:47:13.980Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@O+nPZdtK+MlXc7FxAysyccxZar7ytrndqau6o66N+LuWQvNYHo9bWFDlNwZaLSR715AmYDoT7lCSMXM1KD9JperzTBKlo/tnATE=,mOPHpmXZFNP3TJ5f1xSRPa7by96oRsAqQ3vnEUQEHW8=,/ppgwx+8AY4XSN+O+P7i+a1VDS6BcU5JfuoBDcZDgCo=,7hvrt+00eb0lBRV0yYEHY/q5GV4GTc0UQ9UANuEZ69M=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786433981
+  },
+  {
+    "envelope": {
+      "id": "032789dd-c455-46be-b9e2-0003aa48f58e",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:48:13.988Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@CyOuCl1NgMLm4KVqdBMPpCRxN5O4pusOIeOw8s7OR4m0PzZnDkb6P28uotzgkhQ9Wfx+5EaXSGe7NZfk3zEnRG3af9OnQyg01bU=,mOPHpmXZFNP3TJ5f1xSRPa7by96oRsAqQ3vnEUQEHW8=,/ppgwx+8AY4XSN+O+P7i+a1VDS6BcU5JfuoBDcZDgCo=,7hvrt+00eb0lBRV0yYEHY/q5GV4GTc0UQ9UANuEZ69M=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786493989
+  },
+  {
+    "envelope": {
+      "id": "cbb42e5c-bded-47ca-af83-06ba856c7f60",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:48:34.004Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@BGoCAlqwLtA5K1fIrt4ZXZM8KMSI5YUJB6+0E6eIXI7SdRNfeqlOYuQ4VyJ6E6Q0kx6jBExiguYDR/yVTSPAHDcHSpgI7I7Zizc=,mOPHpmXZFNP3TJ5f1xSRPa7by96oRsAqQ3vnEUQEHW8=,/ppgwx+8AY4XSN+O+P7i+a1VDS6BcU5JfuoBDcZDgCo=,7hvrt+00eb0lBRV0yYEHY/q5GV4GTc0UQ9UANuEZ69M=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786514005
+  },
+  {
+    "envelope": {
+      "id": "da9c127a-70d7-4418-9e9f-9768f01f23ee",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:48:54.013Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@V97velToH+wGiFVgUWL7ZR2qR7be/N1p6OPPKGGqI2iuZMUy82ISjdySI+H2CSyjbseNPycW2f2FePn4ZFTfKj+zJC/AVU6wXco=,mOPHpmXZFNP3TJ5f1xSRPa7by96oRsAqQ3vnEUQEHW8=,/ppgwx+8AY4XSN+O+P7i+a1VDS6BcU5JfuoBDcZDgCo=,7hvrt+00eb0lBRV0yYEHY/q5GV4GTc0UQ9UANuEZ69M=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786534014
+  },
+  {
+    "envelope": {
+      "id": "3af4a999-bd56-4c53-9212-45fc6861bbcb",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:49:14.030Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@cVbJZI5a0aiZb1tgaevm3q6Q0gy0V1/NX2NG38GiI+FxhJsm7QEnQtn2rORSKNvB8CqOxYfTVGPH+xozD6VZL3dnbMX3tbJQdt0=,mOPHpmXZFNP3TJ5f1xSRPa7by96oRsAqQ3vnEUQEHW8=,/ppgwx+8AY4XSN+O+P7i+a1VDS6BcU5JfuoBDcZDgCo=,7hvrt+00eb0lBRV0yYEHY/q5GV4GTc0UQ9UANuEZ69M=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786554031
+  },
+  {
+    "envelope": {
+      "id": "9b83ae48-fc3f-4352-afbd-af7300fa22e9",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:49:34.041Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@nht6SNcCpXAbfPh6nMNxttH6UbGPfgOGrvtXpzO7GxBSZ9PsrNY5ofVgzmE7YdW9gW2mGVhPoUl5Kuhi3NkOS0F2DXuLWKWZGtE=,mOPHpmXZFNP3TJ5f1xSRPa7by96oRsAqQ3vnEUQEHW8=,/ppgwx+8AY4XSN+O+P7i+a1VDS6BcU5JfuoBDcZDgCo=,7hvrt+00eb0lBRV0yYEHY/q5GV4GTc0UQ9UANuEZ69M=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786574041
+  },
+  {
+    "envelope": {
+      "id": "cc8d354a-0a09-461d-922d-079bbd657f6c",
+      "event": "instance.connection",
+      "timestamp": "2026-11-15T23:49:54.277Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "status": "disconnected",
+        "reason": "QR refs attempts ended"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786594277
+  },
+  {
+    "envelope": {
+      "id": "584c1e0d-f0db-4e3a-9252-5d2f6dfe9808",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:50:55.211Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@x0JSDX1jLFpDwk/8VDlldHgZ2Xm0xKoYyvgIWW+4J7LxHWgHinPC7bDUj3llIHQVh7bXyeqikEUSbD9DLmqAcgajXlmUR608Zd8=,8kp4FUjEbpGC0bf+FZQc0Tq2N/vJJwQbTgMcJxBrMFQ=,G6wkBE9NSgFVBtILBsG+9EwgPMTNK4jyQf3qWsifTz4=,vHCttYA5EvVbcwN79D+NJXC8vAMr5/kUinGce7hR3pk=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786655212
+  },
+  {
+    "envelope": {
+      "id": "a08e7b6f-041d-4603-80d7-10d19b64b077",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:51:55.227Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@CWleKol+nBgev7aXVCh9AL5ItegreyBaOlKtKg2lEV7HoHzon2VPChef95wVn7h4nWRsRx9SnXPKXkWcXo9+LVaTT2Ai14FfzX0=,8kp4FUjEbpGC0bf+FZQc0Tq2N/vJJwQbTgMcJxBrMFQ=,G6wkBE9NSgFVBtILBsG+9EwgPMTNK4jyQf3qWsifTz4=,vHCttYA5EvVbcwN79D+NJXC8vAMr5/kUinGce7hR3pk=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786715228
+  },
+  {
+    "envelope": {
+      "id": "68f85d2c-bdb4-42a6-b561-cad81f90cac2",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:52:15.247Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@5V0voYTuXqA24jdeeXNJ9BCbf4Ui0S1l8k+i4czzUwnNY9HG1p8bCgwhlb/Aofo1OVlLVb6KGz3xerW2d013Mm+895qZkgVSatM=,8kp4FUjEbpGC0bf+FZQc0Tq2N/vJJwQbTgMcJxBrMFQ=,G6wkBE9NSgFVBtILBsG+9EwgPMTNK4jyQf3qWsifTz4=,vHCttYA5EvVbcwN79D+NJXC8vAMr5/kUinGce7hR3pk=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786735247
+  },
+  {
+    "envelope": {
+      "id": "26d4a111-35ae-4e0b-9448-def57d2ae795",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:52:35.263Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@BaXKz8pZF948zE54R/ueIr6kNVwO2IbrI3Vt7bSlrcVBC5CM+07sJChT2HqHwmjxWR/BUPHpl2z5pvGDlX1yurfZ40c8P4KJgmk=,8kp4FUjEbpGC0bf+FZQc0Tq2N/vJJwQbTgMcJxBrMFQ=,G6wkBE9NSgFVBtILBsG+9EwgPMTNK4jyQf3qWsifTz4=,vHCttYA5EvVbcwN79D+NJXC8vAMr5/kUinGce7hR3pk=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786755264
+  },
+  {
+    "envelope": {
+      "id": "11f0af69-e7b0-4bf1-a65d-eaa28850b76b",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:52:55.305Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@X5wNJu4/UhHca5DF7vgzE6t6DJLRLKzS7FAKf1nngoNQcDR91zcPB9dT0FH24UmT+gHF8MA9ARXEExm+JEZfW6gaAxYYHwAwG6w=,8kp4FUjEbpGC0bf+FZQc0Tq2N/vJJwQbTgMcJxBrMFQ=,G6wkBE9NSgFVBtILBsG+9EwgPMTNK4jyQf3qWsifTz4=,vHCttYA5EvVbcwN79D+NJXC8vAMr5/kUinGce7hR3pk=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786775306
+  },
+  {
+    "envelope": {
+      "id": "1ba13a92-204c-4bf9-91ca-7e2c6ac2b6ed",
+      "event": "instance.connection",
+      "timestamp": "2026-11-15T23:53:11.444Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "status": "disconnected",
+        "reason": "Connection Terminated"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786791448
+  },
+  {
+    "envelope": {
+      "id": "eb0c4c2d-fb4d-4a47-bfec-47eb122787a2",
+      "event": "instance.connection",
+      "timestamp": "2026-11-15T23:53:11.446Z",
+      "data": {
+        "instanceId": "wpp",
+        "name": "wpp",
+        "status": "disconnected",
+        "reason": "Connection Terminated"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786791449
+  },
+  {
+    "envelope": {
+      "id": "cd69930f-3316-47f2-b6a3-5c76f7472129",
+      "event": "instance.connection",
+      "timestamp": "2026-11-15T23:53:12.472Z",
+      "data": {
+        "instanceId": "wpp",
+        "name": "wpp",
+        "status": "disconnected",
+        "reason": "WebSocket Error (getaddrinfo ENOTFOUND web.whatsapp.com)"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786792475
+  },
+  {
+    "envelope": {
+      "id": "696ffbc4-ce42-4b96-93a3-425d8744992d",
+      "event": "instance.connection",
+      "timestamp": "2026-11-15T23:53:14.486Z",
+      "data": {
+        "instanceId": "wpp",
+        "name": "wpp",
+        "status": "disconnected",
+        "reason": "WebSocket Error (getaddrinfo ENOTFOUND web.whatsapp.com)"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786794488
+  },
+  {
+    "envelope": {
+      "id": "33a9b561-4309-4eca-aa15-cd5a656bebe3",
+      "event": "instance.connection",
+      "timestamp": "2026-11-15T23:53:18.502Z",
+      "data": {
+        "instanceId": "wpp",
+        "name": "wpp",
+        "status": "disconnected",
+        "reason": "WebSocket Error (getaddrinfo ENOTFOUND web.whatsapp.com)"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786798502
+  },
+  {
+    "envelope": {
+      "id": "98b5aa76-5648-4903-a666-1da788da980a",
+      "event": "instance.connection",
+      "timestamp": "2026-11-15T23:53:28.700Z",
+      "data": {
+        "instanceId": "wpp",
+        "name": "wpp",
+        "status": "connected",
+        "phone": "553491029433"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786808703
+  },
+  {
+    "envelope": {
+      "id": "2f2f6db8-e0ef-419f-959f-6a85b0316275",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:54:12.388Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@ipkt4NyI2LXm39/q2FIyFXY3F0L0UZEfnBr2Zei2XWc5qkDSVum3vXNvKSq176JdI4tLFxW8bS/TdiGi+1xtynizTg3kTNlEWSM=,HLTxzU8SG/Da7+T9BNP6pNVHAgufX0mk3LJICq5DUD4=,MC3qC2emSsrWiXwdIO/0Xuxmk+Z7beAD4Vt4gsd7kw4=,wf6VtEEa3jOZDGZuJ9JE/nP06/e/TpnyY4Besj0oa9g=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786852389
+  },
+  {
+    "envelope": {
+      "id": "7c205955-4262-4d1a-8d5f-cef05b4883e2",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:55:12.411Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@xPB13MXzsRL+Ddz2AGEc5EsaM4ConDcshzaXldDnN1BLMVWNAhl3hE7cAktjjYXTOM7lXyyyn9dwi1/WbK63oMBh9b3IrlihOHU=,HLTxzU8SG/Da7+T9BNP6pNVHAgufX0mk3LJICq5DUD4=,MC3qC2emSsrWiXwdIO/0Xuxmk+Z7beAD4Vt4gsd7kw4=,wf6VtEEa3jOZDGZuJ9JE/nP06/e/TpnyY4Besj0oa9g=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786912412
+  },
+  {
+    "envelope": {
+      "id": "8c753309-2388-491a-82a4-b1e30fca34a7",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:55:32.434Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@aBbSqNSh3xfm0xXVCYfYYpj70VDRZnfuFusgWb4zua7bQxQxSZFSzVH+hUpgbQPKmzLkKzzjabQQqdftBx1Kjhzq137PolsAI4A=,HLTxzU8SG/Da7+T9BNP6pNVHAgufX0mk3LJICq5DUD4=,MC3qC2emSsrWiXwdIO/0Xuxmk+Z7beAD4Vt4gsd7kw4=,wf6VtEEa3jOZDGZuJ9JE/nP06/e/TpnyY4Besj0oa9g=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786932435
+  },
+  {
+    "envelope": {
+      "id": "3b25c385-4e05-4226-9680-fb25a3debbe2",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:55:52.461Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@/veETwQ2R/Feus35eCxp2Ixq1YxAl5M9AEfv/kWiPvmx2fF/CtSrvv/3HdKgI22je7azGG9ud1s0G0/mq++qEtqasUZ7CNyg+bY=,HLTxzU8SG/Da7+T9BNP6pNVHAgufX0mk3LJICq5DUD4=,MC3qC2emSsrWiXwdIO/0Xuxmk+Z7beAD4Vt4gsd7kw4=,wf6VtEEa3jOZDGZuJ9JE/nP06/e/TpnyY4Besj0oa9g=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786952461
+  },
+  {
+    "envelope": {
+      "id": "9ee6fc72-33cc-4749-a9c5-c552c2f447c0",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:56:12.478Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@p0WMhCRxU4LjxpMy99+r5w907QdV72anVoD9pBBkFojwzzXEsHSPc9H00LhbcypOfLT/8a/O3PL9887vHfsjOan1cnN1NE7TJAw=,HLTxzU8SG/Da7+T9BNP6pNVHAgufX0mk3LJICq5DUD4=,MC3qC2emSsrWiXwdIO/0Xuxmk+Z7beAD4Vt4gsd7kw4=,wf6VtEEa3jOZDGZuJ9JE/nP06/e/TpnyY4Besj0oa9g=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786972478
+  },
+  {
+    "envelope": {
+      "id": "758d6dbe-ac40-4401-92b6-604f399f7484",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:56:32.499Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@cmlcbyf6opHB86UT09NfhZ0vCLR62MXOfUKLi6fbmxeFWkfD30tSWZb34vtrrIfZiPifADbuaF2xQK8MVLeljd1ECPFpG9fcGEs=,HLTxzU8SG/Da7+T9BNP6pNVHAgufX0mk3LJICq5DUD4=,MC3qC2emSsrWiXwdIO/0Xuxmk+Z7beAD4Vt4gsd7kw4=,wf6VtEEa3jOZDGZuJ9JE/nP06/e/TpnyY4Besj0oa9g=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794786992500
+  },
+  {
+    "envelope": {
+      "id": "6027792e-430c-448c-8171-18559914c099",
+      "event": "instance.connection",
+      "timestamp": "2026-11-15T23:56:52.878Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "status": "disconnected",
+        "reason": "QR refs attempts ended"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794787012879
+  },
+  {
+    "envelope": {
+      "id": "d708027b-3a34-46df-9773-349c502c991f",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:57:53.606Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@rnKApbSJ6nTkHlhDb4B8oC6K8An3TRKvcI/uh6xQCgUjPff0OtWdMWPrOQjSNxNtMtvYpVBHFC+5d9MU/AhVvdwyZnweHe7cyWU=,eqoVFEVZiAhJRNAWgAFGZahKPySmgXE5/EdYKJqNty4=,fj6x7UD75TmjtKOqLqJDjDGxuwiUVXN+um7DvDGie0E=,eYLWXUPXs5s9zjJ0lB+kQ+JN8WlF/2QEC/8IFFUx2bA=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794787073606
+  },
+  {
+    "envelope": {
+      "id": "cfb1b804-f4ff-46cb-9a4f-84b364775862",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:58:53.624Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@059ss/zRjpU7KFLt3iMwltuOv+ldGgtdnjwvFok9hQIKyEOkxoYOkJZ5XbQ37BtlYtU/o2hCWclGHctN/ma9Hu7f0zWLHDpjZeE=,eqoVFEVZiAhJRNAWgAFGZahKPySmgXE5/EdYKJqNty4=,fj6x7UD75TmjtKOqLqJDjDGxuwiUVXN+um7DvDGie0E=,eYLWXUPXs5s9zjJ0lB+kQ+JN8WlF/2QEC/8IFFUx2bA=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794787133625
+  },
+  {
+    "envelope": {
+      "id": "3bf7e7b2-10c5-475a-a132-4184969b4a1b",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:59:13.638Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@gJGrC/vLZJ7OEoSOSBx74rNmrcnMO7bFE8zb5PpK2UT6pMqPpcSQAfksNgyAETd8OOQvld1OxjC0ma56YwOgiYJHGgSmm3j6c98=,eqoVFEVZiAhJRNAWgAFGZahKPySmgXE5/EdYKJqNty4=,fj6x7UD75TmjtKOqLqJDjDGxuwiUVXN+um7DvDGie0E=,eYLWXUPXs5s9zjJ0lB+kQ+JN8WlF/2QEC/8IFFUx2bA=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794787153640
+  },
+  {
+    "envelope": {
+      "id": "47244aa2-c46e-483b-8e01-8dae42331914",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:59:33.657Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@swIoRKumzpNlhW96XS8EGybkqZlVnr45ytlgkazIg6jjFzsgmbzsThH/0+qhm5JGLN/TFQcpgmOD/FNs87u43N84vpMq8v2gc2Y=,eqoVFEVZiAhJRNAWgAFGZahKPySmgXE5/EdYKJqNty4=,fj6x7UD75TmjtKOqLqJDjDGxuwiUVXN+um7DvDGie0E=,eYLWXUPXs5s9zjJ0lB+kQ+JN8WlF/2QEC/8IFFUx2bA=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794787173658
+  },
+  {
+    "envelope": {
+      "id": "2733b155-9892-4258-aaa8-6c10c6e88d9f",
+      "event": "instance.qr",
+      "timestamp": "2026-11-15T23:59:53.671Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@N3/LGuQbZ3PmW4ZW83yfMwUVwred7W23wVuz81gFNU79aGenFZyN54+Ijr/YSowh1Z62gqTfF5FQyh6W23/rzUXK++bAMx9f7NI=,eqoVFEVZiAhJRNAWgAFGZahKPySmgXE5/EdYKJqNty4=,fj6x7UD75TmjtKOqLqJDjDGxuwiUVXN+um7DvDGie0E=,eYLWXUPXs5s9zjJ0lB+kQ+JN8WlF/2QEC/8IFFUx2bA=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794787193672
+  },
+  {
+    "envelope": {
+      "id": "130aba48-23e9-4ee9-8356-4582592105b0",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:00:13.694Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@kGqVAJCI1R47xr7b/KH+LMz5ya6dRZPg73p9WIk/IlMgra/PxhCkLeYCSaTGUis88wkN04wgkAsekEHqbqIN3X2l1D/E4mcFMaw=,eqoVFEVZiAhJRNAWgAFGZahKPySmgXE5/EdYKJqNty4=,fj6x7UD75TmjtKOqLqJDjDGxuwiUVXN+um7DvDGie0E=,eYLWXUPXs5s9zjJ0lB+kQ+JN8WlF/2QEC/8IFFUx2bA=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794787213696
+  },
+  {
+    "envelope": {
+      "id": "d0856bd1-084a-4b68-b086-2236f930358c",
+      "event": "instance.connection",
+      "timestamp": "2026-11-16T00:00:33.987Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "status": "disconnected",
+        "reason": "QR refs attempts ended"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794787233988
+  },
+  {
+    "envelope": {
+      "id": "f9a9e9dc-9112-4005-9a7d-2df663707118",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:01:34.741Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@vrhmYXDMvGnEh67opfmmvvYwuf+sA36dkBnmkFhVTL009cMO7V/ayXbM1kBOXCJl6OS20Wv/m1FinCrQzeq1N/1JKpbW65PSEWE=,nbIPLY0qS87Ro1t1YkDLVlU4hDuiQxXE3JJcjKEtLTM=,pfczNuIEHBz9MgVoF9J1/V7i01K1wrfim4Yv4YeeyFY=,yhd1epLgmDsRCv4ZGjwfjb+xsbEJUN0Z7VULdpBeqWU=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794787294742
+  },
+  {
+    "envelope": {
+      "id": "45347a32-6635-4778-a617-e5c2a46281f1",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:02:34.754Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@abzdKJCACQ0t+tDfY/H3IO09mp4O8tni1Qn4QBYDznmiWWXt2Jqacj4f/edQ9Fy6aPdcx3a+Smh3xSqrM9MEPSagrm8EjbbUo1E=,nbIPLY0qS87Ro1t1YkDLVlU4hDuiQxXE3JJcjKEtLTM=,pfczNuIEHBz9MgVoF9J1/V7i01K1wrfim4Yv4YeeyFY=,yhd1epLgmDsRCv4ZGjwfjb+xsbEJUN0Z7VULdpBeqWU=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794787354754
+  },
+  {
+    "envelope": {
+      "id": "6e6e5231-33e8-4266-950f-be791efa3c26",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:02:54.765Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@OfUHWnEiBPoYEvl7J38mXjPgduqItOmDpOF6lXYJ76iLyKAtxixBy2q3c06zh15/e6H5onjG9hUJh4LtsvZW5XcO9l4nznni2jw=,nbIPLY0qS87Ro1t1YkDLVlU4hDuiQxXE3JJcjKEtLTM=,pfczNuIEHBz9MgVoF9J1/V7i01K1wrfim4Yv4YeeyFY=,yhd1epLgmDsRCv4ZGjwfjb+xsbEJUN0Z7VULdpBeqWU=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794787374766
+  },
+  {
+    "envelope": {
+      "id": "c97b3289-926b-4d9e-a371-31e0ec7d1ea6",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:03:14.788Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@yDBHQeT6FyvWIcm0jCJ0qCgqqFeoU7MNNokWpeR2MWRBbToO2nU0nTAIvxFd3EIwy1XONdmxX2nWyt2ScVdI2LmB0cF1A+ouuqE=,nbIPLY0qS87Ro1t1YkDLVlU4hDuiQxXE3JJcjKEtLTM=,pfczNuIEHBz9MgVoF9J1/V7i01K1wrfim4Yv4YeeyFY=,yhd1epLgmDsRCv4ZGjwfjb+xsbEJUN0Z7VULdpBeqWU=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794787394789
+  },
+  {
+    "envelope": {
+      "id": "f0657359-9738-4307-b913-f8250869245b",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:03:34.806Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@/Ppi0j1Si16X1tvMkG+ep/g5VNbEE1xkRykiCe5AmdzSVjwU0UH7PnAHoUtxnHOC5eO8Sn2NvAKdK++/vvR6IzVD+Yj2WmNFDeM=,nbIPLY0qS87Ro1t1YkDLVlU4hDuiQxXE3JJcjKEtLTM=,pfczNuIEHBz9MgVoF9J1/V7i01K1wrfim4Yv4YeeyFY=,yhd1epLgmDsRCv4ZGjwfjb+xsbEJUN0Z7VULdpBeqWU=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794787414807
+  },
+  {
+    "envelope": {
+      "id": "480934e1-8886-4663-ab17-1ccd51fe57f0",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:03:54.824Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@2H0uLtOnmsWUaqZ8BVlE4o6CbOiZcsOIu/A7Yn7dmH0suoBkeo7l0OQThWi9MTIyQOmiY7i4ljfsYFaNWuUscZ6N0+6ym65XsP4=,nbIPLY0qS87Ro1t1YkDLVlU4hDuiQxXE3JJcjKEtLTM=,pfczNuIEHBz9MgVoF9J1/V7i01K1wrfim4Yv4YeeyFY=,yhd1epLgmDsRCv4ZGjwfjb+xsbEJUN0Z7VULdpBeqWU=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794787434825
+  },
+  {
+    "envelope": {
+      "id": "2ca15cef-3fba-4cb1-bcfa-eabeda3196f6",
+      "event": "instance.connection",
+      "timestamp": "2026-11-16T00:04:15.132Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "status": "disconnected",
+        "reason": "QR refs attempts ended"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794787455133
+  },
+  {
+    "envelope": {
+      "id": "de94bb9e-fce8-4f86-9e28-87a5af9e15a7",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:05:15.765Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@JANWfAERZ5DHoccTpBcYiaKAQdfTvilT3vxQA+Z/tAzdjYiuY+AOp+LnblOEYWkTz7YAt2EdOdqeQy5I+jYIGmzzUlbEVlnP3D8=,2PhGCxTxma8UZsknBgXK9Rlx9xiBU9kIjB07Adb+B0s=,Ga9WzC9r+/8q0limYtiKlvFBtFOGVMdf198LFy4OslQ=,kZQ1MWmxDC5YOtUWg6S/cFzQq9n9idRraz1S5E5c9wY=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794787515766
+  },
+  {
+    "envelope": {
+      "id": "634c7915-f43a-4d46-8260-3347638ad4ee",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:06:15.785Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@mp+ck78Eg+DjLCY/0+sg778xfrqQJabBXB6FHN3a8uMcNRsB1HpIcNJZWTJ4awtf6y1Bx12toR1TN4xkPR8W50sVIASRvnEZeMY=,2PhGCxTxma8UZsknBgXK9Rlx9xiBU9kIjB07Adb+B0s=,Ga9WzC9r+/8q0limYtiKlvFBtFOGVMdf198LFy4OslQ=,kZQ1MWmxDC5YOtUWg6S/cFzQq9n9idRraz1S5E5c9wY=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794787575786
+  },
+  {
+    "envelope": {
+      "id": "580e50ac-d063-458b-bb0d-bf61038efacb",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:06:35.796Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@MYu09wjZiiQXJ/amrqfilYlYyI0a/Sv6LBzSCz5l+zXuWQjDc3ShW+iiv49NfPyWJRXw7sy5d3e8ixJ8EGAC0kWZvxGZ7N1y7hY=,2PhGCxTxma8UZsknBgXK9Rlx9xiBU9kIjB07Adb+B0s=,Ga9WzC9r+/8q0limYtiKlvFBtFOGVMdf198LFy4OslQ=,kZQ1MWmxDC5YOtUWg6S/cFzQq9n9idRraz1S5E5c9wY=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794787595797
+  },
+  {
+    "envelope": {
+      "id": "a3e99e0a-a737-4648-bed1-4a783a58326e",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:06:55.810Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@H4EOoLoGeUqmkeieaq6b82bYZydr1t4SFCjjH5tIpU/n10nDill1JV0Tu+Y6rzFwT1LLraIrlr6VzVH4Z8igMDyCgz5weVNg7jo=,2PhGCxTxma8UZsknBgXK9Rlx9xiBU9kIjB07Adb+B0s=,Ga9WzC9r+/8q0limYtiKlvFBtFOGVMdf198LFy4OslQ=,kZQ1MWmxDC5YOtUWg6S/cFzQq9n9idRraz1S5E5c9wY=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794787615811
+  },
+  {
+    "envelope": {
+      "id": "d46820de-017e-459c-93c6-f1f5124548cb",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:07:15.829Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@h8+mymIfAQZ3zh9yNvHgN7XPif3wpzQbIcfq4UE6TjHUaOYdQvghaGZ+GwDBth0IiwAGzJRe2EScTchc2wbfNzoYo9s0kKa4SJc=,2PhGCxTxma8UZsknBgXK9Rlx9xiBU9kIjB07Adb+B0s=,Ga9WzC9r+/8q0limYtiKlvFBtFOGVMdf198LFy4OslQ=,kZQ1MWmxDC5YOtUWg6S/cFzQq9n9idRraz1S5E5c9wY=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794787635830
+  },
+  {
+    "envelope": {
+      "id": "9696938a-845f-42ea-a27f-c1cdd27da344",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:07:35.846Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@dH9vTP/8xV2UQwecwsOhySvBVk+AXJEBUo+FPwK3Mo7N7ykU+fTASfzlgePyfryJUqr/Na+tAUX9fI6OvPQRLFWiX3Njs8gZr1w=,2PhGCxTxma8UZsknBgXK9Rlx9xiBU9kIjB07Adb+B0s=,Ga9WzC9r+/8q0limYtiKlvFBtFOGVMdf198LFy4OslQ=,kZQ1MWmxDC5YOtUWg6S/cFzQq9n9idRraz1S5E5c9wY=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794787655847
+  },
+  {
+    "envelope": {
+      "id": "abcf44f5-a2e9-4b74-944f-2a5a72f3a0cc",
+      "event": "instance.connection",
+      "timestamp": "2026-11-16T00:07:56.098Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "status": "disconnected",
+        "reason": "QR refs attempts ended"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794787676099
+  },
+  {
+    "envelope": {
+      "id": "e41018d8-266b-4780-908f-e356393dfc20",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:08:57.260Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@H17zDOjV89Arnl363kIFN95UBHwBls/ONJRPJA0A4X3FcDA5RfuWgGJP5iz6au4dxNzh+jEbU3TU0A==,fS75tsmDskn6S5YkXeA61QugR8p54xa21vyZN3mNaFA=,TrFpcFpvLZ4ssS7FAla9xrCcHS5ujfZ+TgAu3aKHgmo=,aMP6dFCrdCNvdguSHbcdCCi3tgtGsMjWycLhI7haJ6Q=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794787737261
+  },
+  {
+    "envelope": {
+      "id": "2013698b-65b2-462f-8a13-0db1b02b433a",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:09:57.271Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@Lid48BPFI3rjg1HVFGM5ehw/lHcw+1p1E6xi66pDnxzmBGuDTrkwW+XDCkF+Zt/vFX7Ni26nQlnL3w==,fS75tsmDskn6S5YkXeA61QugR8p54xa21vyZN3mNaFA=,TrFpcFpvLZ4ssS7FAla9xrCcHS5ujfZ+TgAu3aKHgmo=,aMP6dFCrdCNvdguSHbcdCCi3tgtGsMjWycLhI7haJ6Q=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794787797271
+  },
+  {
+    "envelope": {
+      "id": "318a7fc2-4dcf-4004-baa0-61e134ff2943",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:10:17.291Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@HV+9Qs9hZvYFPr7EsPGqP8JQpGdCSsOnlr0ILR10RoqIj8eU1wJxXjoE7b9j7mtY30/9t27aApEB0Q==,fS75tsmDskn6S5YkXeA61QugR8p54xa21vyZN3mNaFA=,TrFpcFpvLZ4ssS7FAla9xrCcHS5ujfZ+TgAu3aKHgmo=,aMP6dFCrdCNvdguSHbcdCCi3tgtGsMjWycLhI7haJ6Q=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794787817291
+  },
+  {
+    "envelope": {
+      "id": "7052bd28-095c-4b68-b1ea-96bce0923210",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:10:37.300Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@l+a5cD6ClMkVvgTygZWbHpHWffkeYkW01KEfkQ5oParVhzOl48H11s0vb9nMsl+oyhRdVXV6CpRT2g==,fS75tsmDskn6S5YkXeA61QugR8p54xa21vyZN3mNaFA=,TrFpcFpvLZ4ssS7FAla9xrCcHS5ujfZ+TgAu3aKHgmo=,aMP6dFCrdCNvdguSHbcdCCi3tgtGsMjWycLhI7haJ6Q=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794787837301
+  },
+  {
+    "envelope": {
+      "id": "45203de1-63d2-4898-96d9-f257a1b47327",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:10:57.309Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@Kg+Pb17sa8tsMgtRAytzfAMqFzJLN2J1Xl0UQM73WeGosWh4E7gyIYS2wGHuZw1Js23CnvANd0qRLA==,fS75tsmDskn6S5YkXeA61QugR8p54xa21vyZN3mNaFA=,TrFpcFpvLZ4ssS7FAla9xrCcHS5ujfZ+TgAu3aKHgmo=,aMP6dFCrdCNvdguSHbcdCCi3tgtGsMjWycLhI7haJ6Q=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794787857310
+  },
+  {
+    "envelope": {
+      "id": "3d4c3018-a244-4ed6-8649-828f9abca2e8",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:11:17.331Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@HbYe82YzWhw9ooxT64kJ77MsM95ZcS+8A9YcuM8mdkKFyEeystgP/1SM/ygG2JMpUcyfE2CufrMLpw==,fS75tsmDskn6S5YkXeA61QugR8p54xa21vyZN3mNaFA=,TrFpcFpvLZ4ssS7FAla9xrCcHS5ujfZ+TgAu3aKHgmo=,aMP6dFCrdCNvdguSHbcdCCi3tgtGsMjWycLhI7haJ6Q=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794787877332
+  },
+  {
+    "envelope": {
+      "id": "75cde534-136b-46e5-b1eb-a82ad68c65a0",
+      "event": "instance.connection",
+      "timestamp": "2026-11-16T00:11:37.660Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "status": "disconnected",
+        "reason": "QR refs attempts ended"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794787897661
+  },
+  {
+    "envelope": {
+      "id": "3935360a-af95-4914-9c62-2978c5974dce",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:12:38.696Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@mgpiD1bjgQM9Gf6HgdwayAUKgV1IDykjnDzmf2ZeMGjwsO96exlyvRGefSqeAoJ4+T1Hq40/0/7i7gwdA9377XFK+7VLJLqklDs=,RBnuPkYS+iHZw/zoRedwwiX7supXoZg07s3xG0R4rRI=,FipibYxgGSHPKUIxH6rIJOJ2b60dcdwKhzcv6V4AAQc=,dPawuGwnXgfv1Qb7+2o/TwVhnHGuk8wCdeaJn0aWGlg=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794787958696
+  },
+  {
+    "envelope": {
+      "id": "7c483674-9b57-4a1f-b43c-1912b29d65c2",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:13:38.707Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@LL82tcDh2nxVlkYAdlBVJ+wF0H1NHT0hWEdAuxh7cL0fhxaQOSgZpiuWA+oGuEB8uIWoEXOtaE1U4RA8z9npJMcLYnnFaB5S29o=,RBnuPkYS+iHZw/zoRedwwiX7supXoZg07s3xG0R4rRI=,FipibYxgGSHPKUIxH6rIJOJ2b60dcdwKhzcv6V4AAQc=,dPawuGwnXgfv1Qb7+2o/TwVhnHGuk8wCdeaJn0aWGlg=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794788018708
+  },
+  {
+    "envelope": {
+      "id": "077892dd-a116-4fca-b042-fbca0ccfbf95",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:13:58.729Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@qkI+V7b01xZdHaLm26rQDiGE9yAfwXHlrKJUnKxYDr6E4NU6EERXUdMaDAwe1zX6a4ZdvvinvM/G7QGaz8cDiRj1d3J0VEjuIMU=,RBnuPkYS+iHZw/zoRedwwiX7supXoZg07s3xG0R4rRI=,FipibYxgGSHPKUIxH6rIJOJ2b60dcdwKhzcv6V4AAQc=,dPawuGwnXgfv1Qb7+2o/TwVhnHGuk8wCdeaJn0aWGlg=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794788038730
+  },
+  {
+    "envelope": {
+      "id": "88eb0e9b-5695-46a8-a5a6-50638e6e8b6f",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:14:18.748Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@4fKbdmID1WhGHBsS9fP002SfrOnRPVUNQ2lgkHha0aAoZTnQfxo4Xmb7cXQvsognoDP3Lw7OVFD2LWko69xDQwu3PKfOQuayJb0=,RBnuPkYS+iHZw/zoRedwwiX7supXoZg07s3xG0R4rRI=,FipibYxgGSHPKUIxH6rIJOJ2b60dcdwKhzcv6V4AAQc=,dPawuGwnXgfv1Qb7+2o/TwVhnHGuk8wCdeaJn0aWGlg=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794788058749
+  },
+  {
+    "envelope": {
+      "id": "d61c5a7f-12c9-499f-9d96-399d6938253d",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:14:38.765Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@uITaLEWTXxOnxon4z/j3dbGkxm6umI7gzcPgRRGoi84KpXqK1wfS942FjROYA9Z3OBvUAAa0GcBwwda11kAmgzRdhaNvYgQ7HdA=,RBnuPkYS+iHZw/zoRedwwiX7supXoZg07s3xG0R4rRI=,FipibYxgGSHPKUIxH6rIJOJ2b60dcdwKhzcv6V4AAQc=,dPawuGwnXgfv1Qb7+2o/TwVhnHGuk8wCdeaJn0aWGlg=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794788078766
+  },
+  {
+    "envelope": {
+      "id": "24f7468e-c7ff-4300-83f1-448c148df71f",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:14:58.779Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@n2BYNNeS9hNLFStQV5um0SQ3BXcbWWY/gAPvZB4BZxRvk4S78vxD0oZJ4fP1aj2JD1MPiuwvumYpUyYqBkycfBf1Y7yXkEXGgtk=,RBnuPkYS+iHZw/zoRedwwiX7supXoZg07s3xG0R4rRI=,FipibYxgGSHPKUIxH6rIJOJ2b60dcdwKhzcv6V4AAQc=,dPawuGwnXgfv1Qb7+2o/TwVhnHGuk8wCdeaJn0aWGlg=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794788098780
+  },
+  {
+    "envelope": {
+      "id": "84b5bce7-280f-4de4-9118-d32ae8be516a",
+      "event": "instance.connection",
+      "timestamp": "2026-11-16T00:15:19.175Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "status": "disconnected",
+        "reason": "QR refs attempts ended"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794788119176
+  },
+  {
+    "envelope": {
+      "id": "87ea539b-5866-41a7-a740-32b95e4e1655",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:16:20.120Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@lamZ/sr5ksXSH0SE19pr/+lToAXoHlQau+SshoUOYLFPda/Hg0OEJ/ToS+ePI0JZ45TiYP7YgHZUbOLQMEU4zV1qKZWkNVoE3AU=,4eNxX1jdOQ3tulEDlbNa3H3j/84r3Hz88mtkxRxUNj0=,TOQOpmNdx28J3ksQG75sXpSrXfsSC0+wG+0lNZogH10=,ks5Ln3zm8DmPm9tJroWNXleHmvhtRRYs/kDpCn2X60w=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794788180122
+  },
+  {
+    "envelope": {
+      "id": "b535a23c-47f1-4056-97c4-150722bb709a",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:17:20.136Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@5dZHFXvNUQeILzNnGFhQol8HldKhNFOh9dI4n6QHznM96Xdn8xgQ24a4M2VDPuOg7+I7fslOZGlSYsynvUec1Z6WyoCFok+zCl0=,4eNxX1jdOQ3tulEDlbNa3H3j/84r3Hz88mtkxRxUNj0=,TOQOpmNdx28J3ksQG75sXpSrXfsSC0+wG+0lNZogH10=,ks5Ln3zm8DmPm9tJroWNXleHmvhtRRYs/kDpCn2X60w=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794788240138
+  },
+  {
+    "envelope": {
+      "id": "e41f75a3-221d-4b4a-aeaf-ecc7d1776085",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:17:40.155Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@rUY7YdJK8s/QUcKHV2Wh7vcZgjoLarmoSrAO9OX4J/T/UQnORZC4S6TteDSz5i01/HSd/g+GaJoEiNtOZexq9VHbPmppKcOlUoE=,4eNxX1jdOQ3tulEDlbNa3H3j/84r3Hz88mtkxRxUNj0=,TOQOpmNdx28J3ksQG75sXpSrXfsSC0+wG+0lNZogH10=,ks5Ln3zm8DmPm9tJroWNXleHmvhtRRYs/kDpCn2X60w=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794788260156
+  },
+  {
+    "envelope": {
+      "id": "803297bf-b919-4cdb-96d6-7fd163ba1576",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:18:00.178Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@coJoiXaUf1OEXcdJM7wIIAqiKuWpc5vh617Kxhfg1NMeiWw2CWWfKhzFGQFyVlEPu6GTUwqbVpaf+a5XNgLOoBnL1gMsiGNZFzE=,4eNxX1jdOQ3tulEDlbNa3H3j/84r3Hz88mtkxRxUNj0=,TOQOpmNdx28J3ksQG75sXpSrXfsSC0+wG+0lNZogH10=,ks5Ln3zm8DmPm9tJroWNXleHmvhtRRYs/kDpCn2X60w=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794788280179
+  },
+  {
+    "envelope": {
+      "id": "75a26745-e296-4041-a9ae-cb1b5c511ba9",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:18:20.189Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@nfV9R3A7G0uFNnPI6VAVcGhuMMGfBgypJ/+XNt/8su/rFwc87p0/Mz9zPANJLisUdpik7zmJVUXMSlQDysMXPHf5Y4/sBPCq0tI=,4eNxX1jdOQ3tulEDlbNa3H3j/84r3Hz88mtkxRxUNj0=,TOQOpmNdx28J3ksQG75sXpSrXfsSC0+wG+0lNZogH10=,ks5Ln3zm8DmPm9tJroWNXleHmvhtRRYs/kDpCn2X60w=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794788300190
+  },
+  {
+    "envelope": {
+      "id": "32b09fb1-11ea-404c-a3bc-8b90a69dad93",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:18:40.203Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@9yZyG/I7mOU/6G2tI7H2iZE/RPxQlL+okiQscP9XcIjp/3iXmSTmjIrQupBH7IbGTAS3xUrjgOCnP9Fhiwixej1KTv9cpIQeMao=,4eNxX1jdOQ3tulEDlbNa3H3j/84r3Hz88mtkxRxUNj0=,TOQOpmNdx28J3ksQG75sXpSrXfsSC0+wG+0lNZogH10=,ks5Ln3zm8DmPm9tJroWNXleHmvhtRRYs/kDpCn2X60w=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794788320203
+  },
+  {
+    "envelope": {
+      "id": "b05dae57-1b7c-4a93-8add-05ae3845f240",
+      "event": "instance.connection",
+      "timestamp": "2026-11-16T00:19:00.592Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "status": "disconnected",
+        "reason": "QR refs attempts ended"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794788340593
+  },
+  {
+    "envelope": {
+      "id": "13a82324-0414-4bdb-84fb-05db1e874f3a",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:20:01.440Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@3K3wSlp1EVRrB0lsh40adjkpHXkoCa7y+OZDtT/Orzysn7t/0UThKqgoLiQwaRoK3sp6klj/LfAb//N7/dilC6ak/mAZ+b4Hr7c=,KOgTkI9mV3Cyvr/rveUVjYEhUqIOZS1N7Jiv4fPTS1o=,RJMIvX5+0Yabwmd8cWqptZlYdxvrQiFsYt7fPcYchhA=,470oZKOYjewd5lmIB0Wf/hLJc3rU48QV0zsgL7dwB9k=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794788401441
+  },
+  {
+    "envelope": {
+      "id": "407345ed-6512-4830-b770-d78269f96a58",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:21:01.470Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@vsbWbp0KR6u25rk+OCNglrQRUvMStjfkIs4u8e5kqe4hXh9TEDL1o/hE1Lt3i0rVNpGFwBsdZ5jvls/XEXECEQ4oQ81GNCJ5ahk=,KOgTkI9mV3Cyvr/rveUVjYEhUqIOZS1N7Jiv4fPTS1o=,RJMIvX5+0Yabwmd8cWqptZlYdxvrQiFsYt7fPcYchhA=,470oZKOYjewd5lmIB0Wf/hLJc3rU48QV0zsgL7dwB9k=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794788461471
+  },
+  {
+    "envelope": {
+      "id": "dc7402ea-9a57-4e45-931b-387363d611ab",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:21:21.484Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@h+fpwVuXfm8GVihMP/Ae+fU1308/IZgfBKh0qatQkhLVvU8JKNqpT2gVkZvtANwC6lv/6xEQnBHgHDuyQW4k7iFGEEwJd3wEhoE=,KOgTkI9mV3Cyvr/rveUVjYEhUqIOZS1N7Jiv4fPTS1o=,RJMIvX5+0Yabwmd8cWqptZlYdxvrQiFsYt7fPcYchhA=,470oZKOYjewd5lmIB0Wf/hLJc3rU48QV0zsgL7dwB9k=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794788481485
+  },
+  {
+    "envelope": {
+      "id": "78dae8fe-ed8e-45f3-86c3-d4a06e16dba3",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:21:41.503Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@qHAEuByT/9QUtC5zl684bZtimJbt8W6kDB0LjmxZGTOqu0NH2ojpSKSq9vymdh3U7bcYuNpIx3/XycHegR1/3i9KZGTtus07JNI=,KOgTkI9mV3Cyvr/rveUVjYEhUqIOZS1N7Jiv4fPTS1o=,RJMIvX5+0Yabwmd8cWqptZlYdxvrQiFsYt7fPcYchhA=,470oZKOYjewd5lmIB0Wf/hLJc3rU48QV0zsgL7dwB9k=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794788501504
+  },
+  {
+    "envelope": {
+      "id": "870f8138-5e99-4c7a-8665-373d5fc08fb0",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:22:01.513Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@Jb6k+8VVTIDf76YyQNbrb9eQgJryXebk/7s5kwdoCkOQcNtjzKJmEfK4UnQUTq/yPkoI7TYMcL93Qp7ib49XJPHQI24y/w5FqEw=,KOgTkI9mV3Cyvr/rveUVjYEhUqIOZS1N7Jiv4fPTS1o=,RJMIvX5+0Yabwmd8cWqptZlYdxvrQiFsYt7fPcYchhA=,470oZKOYjewd5lmIB0Wf/hLJc3rU48QV0zsgL7dwB9k=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794788521514
+  },
+  {
+    "envelope": {
+      "id": "b69d4a0b-a570-4006-958c-8359d2e2998c",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:22:21.538Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@FCTS7QcemP61XSsH1gpBZfxt3T/mL8oDQdI4fKFenst+xFiM9hbwfo4HXRCq9Q/Fh39TWxYzAzPu/gUBwIFx1trMgpqdYIMSjZ4=,KOgTkI9mV3Cyvr/rveUVjYEhUqIOZS1N7Jiv4fPTS1o=,RJMIvX5+0Yabwmd8cWqptZlYdxvrQiFsYt7fPcYchhA=,470oZKOYjewd5lmIB0Wf/hLJc3rU48QV0zsgL7dwB9k=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794788541539
+  },
+  {
+    "envelope": {
+      "id": "82468803-0b82-40df-8df3-b5b6dfcdc9ae",
+      "event": "instance.connection",
+      "timestamp": "2026-11-16T00:22:41.866Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "status": "disconnected",
+        "reason": "QR refs attempts ended"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794788561867
+  },
+  {
+    "envelope": {
+      "id": "fa40c91f-1495-44c7-b70e-3d399c6a97a5",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:23:42.820Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@J4IqlcA7t3JzUD+lKr4qqnBJ39b269hJSJOJECaZ+b9VlcxnaRTrE12vudIkqWwaUo8R2IvH/goom2FeFDLGXOrYDuhqDKUIzkk=,cVNXqNHPt5G1qZfMqgkusFPRmTI4pVRK8FGaw04Dt0c=,FpHkwt6zR/OlotgJ5etmlkd7EgThr91eh+K23Cpx7Hw=,JFZaJ5NqhDjRZu6NatBasamk4ptZiXWwtN/9bFhyuI8=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794788622821
+  },
+  {
+    "envelope": {
+      "id": "5be66e37-b7c3-459c-8e44-4db199e349d5",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:24:42.830Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@hY+N26O4c9rNVuy1O8umZGNBYVgYMPb3oAIMZKN3HtltTWYzc3mWMvXF+0dq9HDS+abIXT+6n8SXplsjVumuyQSbfBKabR4kHj0=,cVNXqNHPt5G1qZfMqgkusFPRmTI4pVRK8FGaw04Dt0c=,FpHkwt6zR/OlotgJ5etmlkd7EgThr91eh+K23Cpx7Hw=,JFZaJ5NqhDjRZu6NatBasamk4ptZiXWwtN/9bFhyuI8=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794788682830
+  },
+  {
+    "envelope": {
+      "id": "732d630f-e187-4ec9-b060-d2a97a7a2a74",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:25:02.849Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@yODQnq+AVGJUUWUUNDpTVYzYP3P3gF9Sk+D4qihpx7hqie1dRk0xYKSr6ei96DUECyR46lNyY5JRFaKUoATeTgk7cToQEdCXucs=,cVNXqNHPt5G1qZfMqgkusFPRmTI4pVRK8FGaw04Dt0c=,FpHkwt6zR/OlotgJ5etmlkd7EgThr91eh+K23Cpx7Hw=,JFZaJ5NqhDjRZu6NatBasamk4ptZiXWwtN/9bFhyuI8=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794788702850
+  },
+  {
+    "envelope": {
+      "id": "2b183b25-c401-42eb-b954-4cdcb0bdfdfe",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:25:22.871Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@DvUJTsBXyx1RW3Kx1IXAMfKWcUr4z3nQsBWNudAUfZIP4hsyZYgzXHfCzaggh4cI3PMKfV1YMRayCfhKrmwT6ta9sz2h8f+ioQI=,cVNXqNHPt5G1qZfMqgkusFPRmTI4pVRK8FGaw04Dt0c=,FpHkwt6zR/OlotgJ5etmlkd7EgThr91eh+K23Cpx7Hw=,JFZaJ5NqhDjRZu6NatBasamk4ptZiXWwtN/9bFhyuI8=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794788722872
+  },
+  {
+    "envelope": {
+      "id": "9eb24e5c-4c89-48a3-9f38-01640c110ae4",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:25:42.890Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@QFClcnfp6j9ldtoJ8bpp4/GYipQDrlbBD/CnqhLlXzpKIuu0RHN44UpY0+e4NoqyGJZnLgABklqpLFW/mrVeKla/FjYZxSIzUC0=,cVNXqNHPt5G1qZfMqgkusFPRmTI4pVRK8FGaw04Dt0c=,FpHkwt6zR/OlotgJ5etmlkd7EgThr91eh+K23Cpx7Hw=,JFZaJ5NqhDjRZu6NatBasamk4ptZiXWwtN/9bFhyuI8=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794788742891
+  },
+  {
+    "envelope": {
+      "id": "1bc81e8d-31d3-4159-b928-cc12e5a88a27",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:26:02.903Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@u6TaoXCQCj8qDNsPVci7HPAquyXjY8OgDfguE/xEl0S+MXgc6TMXm9MzwViI7yQZNIFGDF2O+Gz0sRnXPZDerLSpLuT2Kwh/xTo=,cVNXqNHPt5G1qZfMqgkusFPRmTI4pVRK8FGaw04Dt0c=,FpHkwt6zR/OlotgJ5etmlkd7EgThr91eh+K23Cpx7Hw=,JFZaJ5NqhDjRZu6NatBasamk4ptZiXWwtN/9bFhyuI8=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794788762904
+  },
+  {
+    "envelope": {
+      "id": "01b1ec09-36f4-4a92-a066-f6c61da8ee3d",
+      "event": "instance.connection",
+      "timestamp": "2026-11-16T00:26:23.266Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "status": "disconnected",
+        "reason": "QR refs attempts ended"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794788783267
+  },
+  {
+    "envelope": {
+      "id": "057b7acc-5d79-4197-bcd2-a3546b15bea7",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:27:24.192Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@GCRbcSDOtRSTS5yrk+WhbInEk5LBlBGCVRVBrU+p6YAZe+altHYzZMjTwX8UdmJKUOkOj9rFFwjqS5K+0HLIlK5XVHwCwfgOVno=,UFBcpsXRX6xN+0m3nrV931vdpoI+advRr+G6R9UoYGA=,lhovYOdIUg7yV6l4Qk5RnL+Eo3TnUdJi9b/x9on5dVQ=,KRqczQndhj7Lya8UOM8nU0gJmrujhbefNDeNzvA6RR4=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794788844193
+  },
+  {
+    "envelope": {
+      "id": "2be7452b-82fb-4ff3-ade5-00b3a657a81c",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:28:24.199Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@nrLXioUx6DoKSl0DGPyGCnST5/OiPUBxc8QOunSwTwfTYFSpHxA74fTGr++U/DRvzqd5dXuYwMmG1l2OPIO0Yvm+3/FqkoRCoMo=,UFBcpsXRX6xN+0m3nrV931vdpoI+advRr+G6R9UoYGA=,lhovYOdIUg7yV6l4Qk5RnL+Eo3TnUdJi9b/x9on5dVQ=,KRqczQndhj7Lya8UOM8nU0gJmrujhbefNDeNzvA6RR4=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794788904200
+  },
+  {
+    "envelope": {
+      "id": "41ef8573-a429-4a71-8a24-3b4cf8e7bd12",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:28:44.208Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@W/H8XI0gY+Fml9NbKTPnY4b7BCMWGqQKr6mH2EW15EWQtXWoad7ynh1SRerb54P6TwI+/6RCw9veewP+GWu4hDUusFhEl1ffn8o=,UFBcpsXRX6xN+0m3nrV931vdpoI+advRr+G6R9UoYGA=,lhovYOdIUg7yV6l4Qk5RnL+Eo3TnUdJi9b/x9on5dVQ=,KRqczQndhj7Lya8UOM8nU0gJmrujhbefNDeNzvA6RR4=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794788924210
+  },
+  {
+    "envelope": {
+      "id": "921a52b9-2ee3-4f3c-b305-10ac58382782",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:29:04.219Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@SQT19tN5tcIndA+CkrYTsAfdOFjT8xYP97/7UQndfMWik+r0VQEV0rcIefmZM9VAQ+qOF0Ts9ieu2LCsXx2jKnV/6AE9ONZWY1w=,UFBcpsXRX6xN+0m3nrV931vdpoI+advRr+G6R9UoYGA=,lhovYOdIUg7yV6l4Qk5RnL+Eo3TnUdJi9b/x9on5dVQ=,KRqczQndhj7Lya8UOM8nU0gJmrujhbefNDeNzvA6RR4=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794788944220
+  },
+  {
+    "envelope": {
+      "id": "069ec2fd-730e-4cb2-aa7e-cad63feeeb52",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:29:24.237Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@EwivgYRm9Wsk1bfaPCtB7tSCU7ke1xBYMatqlJ9QgImttFd9+SNKZ7Is+KPb661imKahNBIS1cfoUNUEevlQFA+FIZOknpcqMIg=,UFBcpsXRX6xN+0m3nrV931vdpoI+advRr+G6R9UoYGA=,lhovYOdIUg7yV6l4Qk5RnL+Eo3TnUdJi9b/x9on5dVQ=,KRqczQndhj7Lya8UOM8nU0gJmrujhbefNDeNzvA6RR4=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794788964239
+  },
+  {
+    "envelope": {
+      "id": "f802d716-f443-412a-a05e-479544ba67b5",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:29:44.249Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@acOG6xpoKWbt27o+KVenECOJqqv/JhYagZY/b3WmK13R0GAonWRFb7QB+ArDL3TbR7kiwbV08LA57rea3qB7dE8KbJOVzNrRxoY=,UFBcpsXRX6xN+0m3nrV931vdpoI+advRr+G6R9UoYGA=,lhovYOdIUg7yV6l4Qk5RnL+Eo3TnUdJi9b/x9on5dVQ=,KRqczQndhj7Lya8UOM8nU0gJmrujhbefNDeNzvA6RR4=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794788984251
+  },
+  {
+    "envelope": {
+      "id": "03fc7254-0c9b-4dbb-aee0-32c51bc74428",
+      "event": "instance.connection",
+      "timestamp": "2026-11-16T00:30:04.635Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "status": "disconnected",
+        "reason": "QR refs attempts ended"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794789004636
+  },
+  {
+    "envelope": {
+      "id": "6b4fa369-4d09-40b7-9c94-ca85106dbe6b",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:31:05.386Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@6rdUSOCI0V0KhYGnlZGs3dCqOZaGoPJ619jr1K1FnQCZqf+PuOyQMJoz4K6kYOjjnm1m5rBbkyKKlMTEXlNoK5LFQfQ/rYd6elI=,Qw4gGQl7jo9Ah/lbTBkNVp+rFuSDnOsjXvpU9BlQVAA=,s9VUcV2zroh3uOaaxEs++N97TxoR8sdQBjt4U9n/VUQ=,mUwsn3NJ/jWygxrh3rG19bkZMHNzBR/Y3PQbZGJ7NPo=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794789065388
+  },
+  {
+    "envelope": {
+      "id": "0cebdafd-a60e-45a5-a7d4-71bc77f4674e",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:32:05.400Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@oiq2WJsPCFSK6hFt9WMfsBboWbLy5shmMyb1udtNZAui2zSw6J5I6uxCsuxLPOgbuOy8vou6kManfD/7AsLsZM1dGFVLgvjaO8A=,Qw4gGQl7jo9Ah/lbTBkNVp+rFuSDnOsjXvpU9BlQVAA=,s9VUcV2zroh3uOaaxEs++N97TxoR8sdQBjt4U9n/VUQ=,mUwsn3NJ/jWygxrh3rG19bkZMHNzBR/Y3PQbZGJ7NPo=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794789125401
+  },
+  {
+    "envelope": {
+      "id": "b808d3f1-776e-4371-b2ea-36ed680c6469",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:32:25.411Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@1owfJxoS8iTUUY/k+9VMhNw9Hp6uLmqGaZO7kS2cxMVPk28LsPT4hVHWd5AGe/yNxk1sJTxQblYfv29U/eiJbSRZPUlG4DvNjKk=,Qw4gGQl7jo9Ah/lbTBkNVp+rFuSDnOsjXvpU9BlQVAA=,s9VUcV2zroh3uOaaxEs++N97TxoR8sdQBjt4U9n/VUQ=,mUwsn3NJ/jWygxrh3rG19bkZMHNzBR/Y3PQbZGJ7NPo=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794789145412
+  },
+  {
+    "envelope": {
+      "id": "b0a34f6d-e8bc-4ea8-9e18-ff5c5a693211",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:32:45.424Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@ldk0H8muxCZ7kiiLszUbocogOO0Pt6xFeB7uMxY8eomC7vKb9hXMQm+4OAfEr6DLhKtmC9KVP2b9Af7FntXHYBz8qNk9D4XdHlg=,Qw4gGQl7jo9Ah/lbTBkNVp+rFuSDnOsjXvpU9BlQVAA=,s9VUcV2zroh3uOaaxEs++N97TxoR8sdQBjt4U9n/VUQ=,mUwsn3NJ/jWygxrh3rG19bkZMHNzBR/Y3PQbZGJ7NPo=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794789165425
+  },
+  {
+    "envelope": {
+      "id": "e5d6a50a-4a3b-4cae-8386-ce5fd4271493",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:33:05.435Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@LgISfVzGhQXLVHu485AY+wBY63vO+YsQ5ZKk5HECHltmrXRUvRh67a3iuCEBmUXiQjA7imwmZ/wm1iuPaxrQ4+vtMhkcPkZZJQs=,Qw4gGQl7jo9Ah/lbTBkNVp+rFuSDnOsjXvpU9BlQVAA=,s9VUcV2zroh3uOaaxEs++N97TxoR8sdQBjt4U9n/VUQ=,mUwsn3NJ/jWygxrh3rG19bkZMHNzBR/Y3PQbZGJ7NPo=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794789185436
+  },
+  {
+    "envelope": {
+      "id": "10559910-5f26-4c04-876b-7fc0be3db3d5",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:33:25.458Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@QUe9NYkZN01sZX40chti9WB6X8dcKO/OHYnaTqaPyV2rooMe/h+ihynWZtKFwvEkRRca+kwFXRVKMQAarnfCQsALV2hDI4pNm3M=,Qw4gGQl7jo9Ah/lbTBkNVp+rFuSDnOsjXvpU9BlQVAA=,s9VUcV2zroh3uOaaxEs++N97TxoR8sdQBjt4U9n/VUQ=,mUwsn3NJ/jWygxrh3rG19bkZMHNzBR/Y3PQbZGJ7NPo=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794789205460
+  },
+  {
+    "envelope": {
+      "id": "960201a3-8cdb-4496-874a-227f059939c7",
+      "event": "instance.connection",
+      "timestamp": "2026-11-16T00:33:45.767Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "status": "disconnected",
+        "reason": "QR refs attempts ended"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794789225768
+  },
+  {
+    "envelope": {
+      "id": "7900ff02-5669-4a44-9d6e-f0a124aaa64c",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:34:46.402Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@5hGQT8zl2F8T4bPdKrArHTqvLatxWO+zmrGz+w5a8rNkVjwe+8xkZOaqd/mG6sJQG3bvL0u4lSOo0/4/W4ZeAc61gZdREnKXAh0=,GR2D1dePZxAMhRSkYcmD79xPyFXRPP9bi+gpPhOeGxU=,TrrGgl4FdroiSO1PQYfZAbgOmpiaXiJhXP3TV84KiDo=,4njHs2Ggp0YIhs4MAoojLjM0oeLbkE4XSfuLaziH7tg=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794789286403
+  },
+  {
+    "envelope": {
+      "id": "d14de831-88eb-4c37-8610-f6398c519c66",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:35:46.408Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@9eKsQFWOphgdbj588MiL+ZFnVae/iEC53Osfm+9nug+T3851J4ZzxwjGe2zUcEGPfvi62Mx4RpOJcKAJPxYH+ZXHl2hqHgsxhAo=,GR2D1dePZxAMhRSkYcmD79xPyFXRPP9bi+gpPhOeGxU=,TrrGgl4FdroiSO1PQYfZAbgOmpiaXiJhXP3TV84KiDo=,4njHs2Ggp0YIhs4MAoojLjM0oeLbkE4XSfuLaziH7tg=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794789346409
+  },
+  {
+    "envelope": {
+      "id": "d0ae19b5-4ee2-43d8-b5b4-cd7bdc800a55",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:36:06.416Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@rqqzMnUYI1Yo55Z4cv8lqlfnN6YdRDUoMEdByMompG4DxsZ1OpZiUkABui/28hLTJqsAP67XZVkxTLuCyny+Y/sKUdPZxDQCYUs=,GR2D1dePZxAMhRSkYcmD79xPyFXRPP9bi+gpPhOeGxU=,TrrGgl4FdroiSO1PQYfZAbgOmpiaXiJhXP3TV84KiDo=,4njHs2Ggp0YIhs4MAoojLjM0oeLbkE4XSfuLaziH7tg=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794789366416
+  },
+  {
+    "envelope": {
+      "id": "2bd9c998-f1bf-432d-b201-65483fe2a375",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:36:26.433Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@3HnmdvwXyYlHb7hIIzRnF1lT2PcdKAwZV5cSLE9qefUYPpTNrDxkDZv/IqyWyjoZ3jpzc6VOAqilTQj6i8OFGGzBPnSsrbmuDgk=,GR2D1dePZxAMhRSkYcmD79xPyFXRPP9bi+gpPhOeGxU=,TrrGgl4FdroiSO1PQYfZAbgOmpiaXiJhXP3TV84KiDo=,4njHs2Ggp0YIhs4MAoojLjM0oeLbkE4XSfuLaziH7tg=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794789386434
+  },
+  {
+    "envelope": {
+      "id": "1dc18bce-a0c3-49bc-979e-2c6898c04ab9",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:36:46.451Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@z4R01opCWsoDr8qnFA46omHXHMV0/61nhpwRM60d+R9kMBRPCbAxwxyKoQUcVPxPl9pazlEcM+dFd/kbtrMb7KWGdsjgqkmYa/4=,GR2D1dePZxAMhRSkYcmD79xPyFXRPP9bi+gpPhOeGxU=,TrrGgl4FdroiSO1PQYfZAbgOmpiaXiJhXP3TV84KiDo=,4njHs2Ggp0YIhs4MAoojLjM0oeLbkE4XSfuLaziH7tg=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794789406451
+  },
+  {
+    "envelope": {
+      "id": "cdd50e5a-3aba-49bb-ae1c-5d4f23824d9b",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:37:06.466Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@U1YLRuseKMlkzykI1Dcmoib7KndXootglnzbqAA9cajRrU+jwLK1iVkckRdWKqqnooosZAjI9YgmCJoFJvTsQ/CxuJx/s7mgfp0=,GR2D1dePZxAMhRSkYcmD79xPyFXRPP9bi+gpPhOeGxU=,TrrGgl4FdroiSO1PQYfZAbgOmpiaXiJhXP3TV84KiDo=,4njHs2Ggp0YIhs4MAoojLjM0oeLbkE4XSfuLaziH7tg=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794789426467
+  },
+  {
+    "envelope": {
+      "id": "5f05ed6d-6295-41d6-be65-32578ea72c12",
+      "event": "instance.connection",
+      "timestamp": "2026-11-16T00:37:26.705Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "status": "disconnected",
+        "reason": "QR refs attempts ended"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794789446706
+  },
+  {
+    "envelope": {
+      "id": "347cd56d-b64a-4ae6-b9c1-5d37b5e7a20b",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:38:27.657Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@SUFFyjqqb364t4mp95iSw1I+PSZspsYXla5klH1PhbDb7Zo3xjUC/5nu7/xt09CZAVsn9KMzbnE42Da0/fx4tPVUBa8S3n7zGSg=,78Pxn0cJIOQ6Cii1PBHbaPbshZ5f+p2A+jSHJVHkfwQ=,Bb3Sxq6Msq+dCD9TyexGtVlh2A6nXP5RLaTvKjAt53o=,b7OKdT+FuRr0XKnKMkESoiL6WVr/UPbPSJ7PLCxJ1fs=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794789507658
+  },
+  {
+    "envelope": {
+      "id": "ed317987-5f80-4187-852c-717ff2c35acf",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:39:27.666Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@OC1QH1mFDtIpoFSTBEw7M7JLyV2WpFGCaEk+VbSErgm26NqX6v9MBQ01TtiOT/Uj7mCJkDjlmI42du+Q5llf99F01fe82l+0wNY=,78Pxn0cJIOQ6Cii1PBHbaPbshZ5f+p2A+jSHJVHkfwQ=,Bb3Sxq6Msq+dCD9TyexGtVlh2A6nXP5RLaTvKjAt53o=,b7OKdT+FuRr0XKnKMkESoiL6WVr/UPbPSJ7PLCxJ1fs=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794789567667
+  },
+  {
+    "envelope": {
+      "id": "e71a251f-de0d-4f55-914e-0baeb97c13b5",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:39:47.684Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@o4dm/ELd5ywDe7ddxlGMM3GHYNG0eJ/Izf35b0k7SIo0TdqwCU/GNbph9A3ZVW4Bgjqw+rDHiwrJeNX70o8jL5ck20/c4LyEfmY=,78Pxn0cJIOQ6Cii1PBHbaPbshZ5f+p2A+jSHJVHkfwQ=,Bb3Sxq6Msq+dCD9TyexGtVlh2A6nXP5RLaTvKjAt53o=,b7OKdT+FuRr0XKnKMkESoiL6WVr/UPbPSJ7PLCxJ1fs=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794789587685
+  },
+  {
+    "envelope": {
+      "id": "e0091a96-646d-44d9-bc9b-9beeb7d7dc51",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:40:07.694Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@NVccKJGTUM9t58XnSTPw623ArYJEiC/Z279fTaOmmrxa6See39ZJf4SOJRsN/zrSHDDs81t3dA3m1r2n6XnTcYy1BmYRWFN8BWk=,78Pxn0cJIOQ6Cii1PBHbaPbshZ5f+p2A+jSHJVHkfwQ=,Bb3Sxq6Msq+dCD9TyexGtVlh2A6nXP5RLaTvKjAt53o=,b7OKdT+FuRr0XKnKMkESoiL6WVr/UPbPSJ7PLCxJ1fs=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794789607696
+  },
+  {
+    "envelope": {
+      "id": "dffeb92e-49d2-4410-99b9-2b515d999e57",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:40:27.708Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@DmqsqRQs/KOgNODo3E9d+rprEdRoKY7VGjfKUsDsWeU0HtanchDm1mTycQUqIy1+C9mjXsre5UP4QRqx+0MYeXwVntCBe95b49g=,78Pxn0cJIOQ6Cii1PBHbaPbshZ5f+p2A+jSHJVHkfwQ=,Bb3Sxq6Msq+dCD9TyexGtVlh2A6nXP5RLaTvKjAt53o=,b7OKdT+FuRr0XKnKMkESoiL6WVr/UPbPSJ7PLCxJ1fs=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794789627709
+  },
+  {
+    "envelope": {
+      "id": "a4a2c5c6-699f-48bb-a1e3-d00af22a40d4",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:40:47.727Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@uF7nlkIl8HpPunjqQELEi0bQkQJX3JAW9l5ZDMSp5hPDV/IxUFoqC2lcFVQOV0PSXjRFE7ofyX6Hwt1MN7NZrAxN4WPIJvhzdVc=,78Pxn0cJIOQ6Cii1PBHbaPbshZ5f+p2A+jSHJVHkfwQ=,Bb3Sxq6Msq+dCD9TyexGtVlh2A6nXP5RLaTvKjAt53o=,b7OKdT+FuRr0XKnKMkESoiL6WVr/UPbPSJ7PLCxJ1fs=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794789647727
+  },
+  {
+    "envelope": {
+      "id": "5525a504-ef39-4ce6-a998-80b6f4f86b9e",
+      "event": "instance.connection",
+      "timestamp": "2026-11-16T00:41:08.108Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "status": "disconnected",
+        "reason": "QR refs attempts ended"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794789668109
+  },
+  {
+    "envelope": {
+      "id": "6fe6436a-3925-4f19-abe4-a5705d821c03",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:42:08.953Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@2JvXeaqUkB8yw0Hc5C6ZpP38dFwa8tWEelzVlufFreaaMGl0qrtZhpZ1q5MuRrT18xTzFT6bNZeWvRTlMy+Wyxn98srluW+K+iM=,bn01rFbREydIBT1yvYxwVI+kqXU4KUIY+pG7tQ4qQC8=,+5FmgRGRHU0rTpPqShrBJ5UHUdMH3A9KOvE8TsUAnCQ=,Ea3JupLFJ7gVW3kXeD6FraK8zZIC0AzD8gl3CNBQGT4=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794789728954
+  },
+  {
+    "envelope": {
+      "id": "b21d5b7f-2672-46c0-a756-1b0b2ca31c1c",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:43:08.968Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@cLJC2epn9bcF3khvlmmqOkBe9m2AImbg3PvRkvQJ/fU1O192H4KboAh6ZMWjjGT+kA11Q1eFs8Ryd+Gik1yck1nNPeRkLtZHrZc=,bn01rFbREydIBT1yvYxwVI+kqXU4KUIY+pG7tQ4qQC8=,+5FmgRGRHU0rTpPqShrBJ5UHUdMH3A9KOvE8TsUAnCQ=,Ea3JupLFJ7gVW3kXeD6FraK8zZIC0AzD8gl3CNBQGT4=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794789788969
+  },
+  {
+    "envelope": {
+      "id": "2e300111-6be6-42eb-ba61-b0403c674f22",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:43:28.975Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@ZILSwU1KoQefi5A7r0RIKm/HEbxilZUZATyKR+A1Qd8lX1Ms9yvXNgqiYaJqeM2sznZo1XojrURZ2CyEYYgnbStUAiXeamUAgbo=,bn01rFbREydIBT1yvYxwVI+kqXU4KUIY+pG7tQ4qQC8=,+5FmgRGRHU0rTpPqShrBJ5UHUdMH3A9KOvE8TsUAnCQ=,Ea3JupLFJ7gVW3kXeD6FraK8zZIC0AzD8gl3CNBQGT4=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794789808976
+  },
+  {
+    "envelope": {
+      "id": "b5007c6a-fc09-4d08-bd3d-46a3b7cf88f2",
+      "event": "instance.connection",
+      "timestamp": "2026-11-16T00:43:29.343Z",
+      "data": {
+        "instanceId": "wpp",
+        "name": "wpp",
+        "status": "disconnected",
+        "reason": "Stream Errored (ack)"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794789809344
+  },
+  {
+    "envelope": {
+      "id": "79c7bf04-db78-496c-aa82-4de39d8115fc",
+      "event": "instance.connection",
+      "timestamp": "2026-11-16T00:43:32.556Z",
+      "data": {
+        "instanceId": "wpp",
+        "name": "wpp",
+        "status": "connected",
+        "phone": "553491029433"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794789812560
+  },
+  {
+    "envelope": {
+      "id": "5f991405-7090-4c0c-af70-f91e7dd2c895",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:43:48.983Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@pllqO6htZK9xbPLvXKBHxgWRpuyW2tkyxx+3WROCywKIZ7ucQL+eLdeWFPDPBY6nVpMI3EdnYcQ5LxWIuFOzdk6zDR377MPTMV8=,bn01rFbREydIBT1yvYxwVI+kqXU4KUIY+pG7tQ4qQC8=,+5FmgRGRHU0rTpPqShrBJ5UHUdMH3A9KOvE8TsUAnCQ=,Ea3JupLFJ7gVW3kXeD6FraK8zZIC0AzD8gl3CNBQGT4=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794789828984
+  },
+  {
+    "envelope": {
+      "id": "7dcbcecd-05bb-421b-99e9-2c614e695981",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:44:08.994Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@MEmN+QLXw9s/jXt63uk67XcKirbZaapMLT+hNa/CDxPZrVEVLcs5LTKHaRIUELikYY19LySeXndsX2HJbUM1v5Vn9g/zZak8saI=,bn01rFbREydIBT1yvYxwVI+kqXU4KUIY+pG7tQ4qQC8=,+5FmgRGRHU0rTpPqShrBJ5UHUdMH3A9KOvE8TsUAnCQ=,Ea3JupLFJ7gVW3kXeD6FraK8zZIC0AzD8gl3CNBQGT4=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794789848995
+  },
+  {
+    "envelope": {
+      "id": "ccd0cb10-7884-495d-a454-9b498b3d22eb",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:44:29.005Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@OqVjUCKNnnLItckcxBtHxJ1zW4+AL7TxkOC59Zhy/hwGhch/kKhYKmPw3oK+ncRCLQx1Xt4alIrL3aM+7/pLkEc8B3e+mRqhe6M=,bn01rFbREydIBT1yvYxwVI+kqXU4KUIY+pG7tQ4qQC8=,+5FmgRGRHU0rTpPqShrBJ5UHUdMH3A9KOvE8TsUAnCQ=,Ea3JupLFJ7gVW3kXeD6FraK8zZIC0AzD8gl3CNBQGT4=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794789869007
+  },
+  {
+    "envelope": {
+      "id": "c779e88d-80af-4be6-b23e-f8695c1910bc",
+      "event": "instance.connection",
+      "timestamp": "2026-11-16T00:44:49.330Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "status": "disconnected",
+        "reason": "QR refs attempts ended"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794789889331
+  },
+  {
+    "envelope": {
+      "id": "5c67dd31-7857-4a40-9de4-b5b017e8791b",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:45:49.949Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@RqbGi2aHQkm5lzfgBr4w+0EgcRthZ3a12GN5M6vC366ZwmdKGNh4ZPWUq0WVJQdXdWR9qb9B4Ae7OffKxnJMLMCKVRka2eM9Jxo=,SJtxb6JqisK+y/QTRVN1r353c+JYNHmvdIn9Y8CutV4=,cEdre9rXy5jfK9Opxst3wIsyfJe8Cqx0m6BN46HXflc=,QVQGI68icClEDSAXa1CXkYrrWIFTleUmpiO1BvRyw8w=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794789949950
+  },
+  {
+    "envelope": {
+      "id": "5d7333da-c472-41e8-bebe-64e1f85a0cea",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:46:49.963Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@2jSKYoUgKinSaXxURr+d6KKElmZgHZU/8sMrbIc2xMw1sCYXK+8PHX6AscCW5+5ScaEM5yZn6iAipWyhfD8fYUSf0Yw2hjyDoZI=,SJtxb6JqisK+y/QTRVN1r353c+JYNHmvdIn9Y8CutV4=,cEdre9rXy5jfK9Opxst3wIsyfJe8Cqx0m6BN46HXflc=,QVQGI68icClEDSAXa1CXkYrrWIFTleUmpiO1BvRyw8w=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794790009964
+  },
+  {
+    "envelope": {
+      "id": "f9f0df00-75dc-4acd-b444-22eaa9291d23",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:47:09.984Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@gp+kfehLgYFy4G91CGIDjx12dpzrIhONXqPqxF4uL7fZvCncqlZNUlj/oo/85XxOEkihOtruNjqgFh3GOSPJpLlg7kxoeMy1ojI=,SJtxb6JqisK+y/QTRVN1r353c+JYNHmvdIn9Y8CutV4=,cEdre9rXy5jfK9Opxst3wIsyfJe8Cqx0m6BN46HXflc=,QVQGI68icClEDSAXa1CXkYrrWIFTleUmpiO1BvRyw8w=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794790029985
+  },
+  {
+    "envelope": {
+      "id": "438ed49b-f6e9-4266-8002-531960e82e5e",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:47:29.989Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@hjageyYOquoGquGnP9xx4rT1mmC8TGALlK7hhmR4u8RdMN39KqTGCIKI3prwDOcpU3eiTQzjLTgjmeE/tNSVLWhphv16EHeIZU4=,SJtxb6JqisK+y/QTRVN1r353c+JYNHmvdIn9Y8CutV4=,cEdre9rXy5jfK9Opxst3wIsyfJe8Cqx0m6BN46HXflc=,QVQGI68icClEDSAXa1CXkYrrWIFTleUmpiO1BvRyw8w=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794790049990
+  },
+  {
+    "envelope": {
+      "id": "5a69a8e2-7d4a-44a8-97f8-529da0058a67",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:47:50.007Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@7rVgF3sKXmTy5gHJ678G1TN93sdAkM9mWFP3qk9pnJ/r+gQAwNSvniqMouwb8lMwvUjHyln8kzCpwbXpXrQg8NsghuU7+5uZtpE=,SJtxb6JqisK+y/QTRVN1r353c+JYNHmvdIn9Y8CutV4=,cEdre9rXy5jfK9Opxst3wIsyfJe8Cqx0m6BN46HXflc=,QVQGI68icClEDSAXa1CXkYrrWIFTleUmpiO1BvRyw8w=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794790070008
+  },
+  {
+    "envelope": {
+      "id": "a4509826-cc0b-492b-b8c6-c06ae7cd8ebc",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:48:10.020Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@fOS3hlxG8UFl3oRh9LCat8dio2OKB4zVeqvfsqNLxS75wgrrjd9DCfGGbNU3XZHJTNSiHOy1M75xGD9gHuYSfwqNnmG+paYEQmI=,SJtxb6JqisK+y/QTRVN1r353c+JYNHmvdIn9Y8CutV4=,cEdre9rXy5jfK9Opxst3wIsyfJe8Cqx0m6BN46HXflc=,QVQGI68icClEDSAXa1CXkYrrWIFTleUmpiO1BvRyw8w=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794790090021
+  },
+  {
+    "envelope": {
+      "id": "4bc5a4a5-21c4-4943-8f6f-22f01c5fb709",
+      "event": "instance.connection",
+      "timestamp": "2026-11-16T00:48:30.258Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "status": "disconnected",
+        "reason": "QR refs attempts ended"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794790110259
+  },
+  {
+    "envelope": {
+      "id": "a80e9078-eaaf-4ae3-aa84-2a9444fe9b00",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:49:31.077Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@5RBM9aHbKgPWl+sL97tVprcGmTddko1gwsG/jIBv+uUxzJpR4A6i6qh3Dw7TkKpMhqdFzNZv6pU9EDiwpApKKy9LPVOwGPWjFc8=,BjqpuMTqeiDyAl63+mK5WP/DfgeQbHwYDeGJRj29+Vc=,DfXImaVKdzc+6rWOOEkKAlZXPK1neYrvrvlN3vdixRY=,KGAY7PZIezikFCa/Ur7Gm3kHQcr7AC8AFa7SbjFnifg=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794790171078
+  },
+  {
+    "envelope": {
+      "id": "0e68a20f-54df-4dcb-99f3-8d40c9bc3159",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:50:31.086Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@tN2yX9tz02zg7bJvyQk9VMoYw/Gd4zyHQGHKrd+v61HZumqzR1iLRO78CYD6BzefUtvXt715ShgSFrnaYFhf1RErwUNVJ5Cih3Y=,BjqpuMTqeiDyAl63+mK5WP/DfgeQbHwYDeGJRj29+Vc=,DfXImaVKdzc+6rWOOEkKAlZXPK1neYrvrvlN3vdixRY=,KGAY7PZIezikFCa/Ur7Gm3kHQcr7AC8AFa7SbjFnifg=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794790231087
+  },
+  {
+    "envelope": {
+      "id": "9fbc35fe-9321-4a79-99fb-c953cec3b1e4",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:50:51.095Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@KfrPV/SepTiipOnuNlgz5c5cpgMGmd+J7nj85PMlzzmKtMXHKFbUZJa6J7WCc4XsIh3JuB5nadPR5SbUTXWGv7+rMrnOaMBy82A=,BjqpuMTqeiDyAl63+mK5WP/DfgeQbHwYDeGJRj29+Vc=,DfXImaVKdzc+6rWOOEkKAlZXPK1neYrvrvlN3vdixRY=,KGAY7PZIezikFCa/Ur7Gm3kHQcr7AC8AFa7SbjFnifg=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794790251096
+  },
+  {
+    "envelope": {
+      "id": "83d6615e-7503-4f1e-b78a-3bbc6a0a1319",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:51:11.105Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@HWs0QxSp1/69/VpA1YHJ9IhcR4uPiviNkrgPl6iSi02YGWTvFyXLTzgGm618fQP34l4t3C0Q/lKo6LkLAD9CPgbsRTpI6SxWCZs=,BjqpuMTqeiDyAl63+mK5WP/DfgeQbHwYDeGJRj29+Vc=,DfXImaVKdzc+6rWOOEkKAlZXPK1neYrvrvlN3vdixRY=,KGAY7PZIezikFCa/Ur7Gm3kHQcr7AC8AFa7SbjFnifg=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794790271106
+  },
+  {
+    "envelope": {
+      "id": "3e1d63fe-81fb-4a0d-ada0-31648b71b179",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:51:31.121Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@TqNwWndtIDApUngbnkubKsp9uqpKhGicIBBkn84jYoVrrOnxGFzI2EASddsCvgkvVVDXwPQ8B3T7YGILwz59IbVqae9y2oenm5A=,BjqpuMTqeiDyAl63+mK5WP/DfgeQbHwYDeGJRj29+Vc=,DfXImaVKdzc+6rWOOEkKAlZXPK1neYrvrvlN3vdixRY=,KGAY7PZIezikFCa/Ur7Gm3kHQcr7AC8AFa7SbjFnifg=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794790291122
+  },
+  {
+    "envelope": {
+      "id": "11d07033-c95e-4fc7-b456-e4bbfb4309fe",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T00:51:51.142Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@qoJiTEJ+LHONdVHR5xI03A7/IlQRheA74S5bDxLj1jBVXbZoF28bl0z+UDbwowiIeCpA7XaGnNgckQNp/VWQUVyFcu80kKUrWd0=,BjqpuMTqeiDyAl63+mK5WP/DfgeQbHwYDeGJRj29+Vc=,DfXImaVKdzc+6rWOOEkKAlZXPK1neYrvrvlN3vdixRY=,KGAY7PZIezikFCa/Ur7Gm3kHQcr7AC8AFa7SbjFnifg=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794790311143
+  },
+  {
+    "envelope": {
+      "id": "e70eb8ad-70df-450e-bfe3-90c185ec57c4",
+      "event": "instance.connection",
+      "timestamp": "2026-11-16T00:52:11.457Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "status": "disconnected",
+        "reason": "QR refs attempts ended"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794790331458
+  },
+  {
+    "envelope": {
+      "id": "469f2cc1-16e7-4678-a4a0-a46477cb901f",
+      "event": "instance.connection",
+      "timestamp": "2026-11-16T01:10:44.542Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "status": "disconnected",
+        "reason": "WebSocket Error (getaddrinfo ENOTFOUND web.whatsapp.com)"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794791444563
+  },
+  {
+    "envelope": {
+      "id": "704b91b2-3e67-4a92-8167-524dbd8e689e",
+      "event": "instance.connection",
+      "timestamp": "2026-11-16T01:10:46.594Z",
+      "data": {
+        "instanceId": "wpp",
+        "name": "wpp",
+        "status": "disconnected",
+        "reason": "Connection was lost"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794791446595
+  },
+  {
+    "envelope": {
+      "id": "cbba66b7-1f53-4efc-99fa-fd99b3d35eaa",
+      "event": "instance.connection",
+      "timestamp": "2026-11-16T01:10:49.501Z",
+      "data": {
+        "instanceId": "wpp",
+        "name": "wpp",
+        "status": "connected",
+        "phone": "553491029433"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794791449504
+  },
+  {
+    "envelope": {
+      "id": "1210cbf6-dcc1-4ec1-846a-88235e880344",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:11:45.294Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@E0EU5kYo53hNd3sort8dxwT9H0qiFOj+XOWlU8rs77qUYPY3IdO5rm7a/WaAnPH+0oK+qQi2cFgTfLX5mIg/Dra5qvoiMqFWJ6s=,lVmD5AbcjDY6+EZIWkZoUKEMf15XCV7ubOuWRA/fA0k=,4j4ARxmq0+MUwP5l+uD8Bd8+ZIq8ZVhiiKD2h72ZO1w=,tuI2ZIcrUuXRU2MuvtRQkRHSHpeQmYsYAa4SYdbqnYw=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794791505295
+  },
+  {
+    "envelope": {
+      "id": "8e5e6458-0b9f-4033-95ca-37147ed0e634",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:12:45.314Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@xVQS7jUixLWBzv38apTy/5M5p1X/YRSRDpu6ILbQiWoN4x/ohISGG4+NCCIMG7CqaIDDaVRyNdTFD02V3uEdxrNtPj4s5cjH7fs=,lVmD5AbcjDY6+EZIWkZoUKEMf15XCV7ubOuWRA/fA0k=,4j4ARxmq0+MUwP5l+uD8Bd8+ZIq8ZVhiiKD2h72ZO1w=,tuI2ZIcrUuXRU2MuvtRQkRHSHpeQmYsYAa4SYdbqnYw=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794791565322
+  },
+  {
+    "envelope": {
+      "id": "62fcd660-7adf-423f-9b7c-4b72b0029c33",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:13:05.323Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@yCncczrc/ImBdWZR93n51QsrtoeTFLKhZwIVVTb7CMEMlPx+GfxF56fn3ASbyN/1wlIc0P63qoAe9I0nWjKgwcmkMrQ7MiiyQ60=,lVmD5AbcjDY6+EZIWkZoUKEMf15XCV7ubOuWRA/fA0k=,4j4ARxmq0+MUwP5l+uD8Bd8+ZIq8ZVhiiKD2h72ZO1w=,tuI2ZIcrUuXRU2MuvtRQkRHSHpeQmYsYAa4SYdbqnYw=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794791585324
+  },
+  {
+    "envelope": {
+      "id": "31251fb2-d5aa-426a-bb2b-0e72c9e4d79c",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:13:25.343Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@VoJCJkpdBcwS5x/J0lJrjsINuUt3HwPvTyxu0c8pAMu3FKn4MEV+ZghPdVrJ7iU2mnhNuipYavcyKDZAVnZ+gKJTD1JAwwF44xQ=,lVmD5AbcjDY6+EZIWkZoUKEMf15XCV7ubOuWRA/fA0k=,4j4ARxmq0+MUwP5l+uD8Bd8+ZIq8ZVhiiKD2h72ZO1w=,tuI2ZIcrUuXRU2MuvtRQkRHSHpeQmYsYAa4SYdbqnYw=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794791605344
+  },
+  {
+    "envelope": {
+      "id": "79d45953-31ed-4e25-9e5a-76349f3cef3c",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:13:45.355Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@gHuTRN8/9K79J3Xr3V8vKV+9pad0QPU/eU2RwkHaxTVu1HYqN3lbgTluIBcezG2ORcUISxo+HDDCrcJGHhPhj/ov6UnR9cqdnU8=,lVmD5AbcjDY6+EZIWkZoUKEMf15XCV7ubOuWRA/fA0k=,4j4ARxmq0+MUwP5l+uD8Bd8+ZIq8ZVhiiKD2h72ZO1w=,tuI2ZIcrUuXRU2MuvtRQkRHSHpeQmYsYAa4SYdbqnYw=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794791625355
+  },
+  {
+    "envelope": {
+      "id": "5e467561-fa41-40a9-b02b-4f71a6ff6cc4",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:14:05.375Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@k9+wMxPXNS/YNNpbbol3VR8WJhsf3SrfCjUqBvRBjax73h+xOfRG07F9aFOOwX7nQB3fHPxznAkQNKYRf8iN3lb6ZsToAo04O5A=,lVmD5AbcjDY6+EZIWkZoUKEMf15XCV7ubOuWRA/fA0k=,4j4ARxmq0+MUwP5l+uD8Bd8+ZIq8ZVhiiKD2h72ZO1w=,tuI2ZIcrUuXRU2MuvtRQkRHSHpeQmYsYAa4SYdbqnYw=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794791645377
+  },
+  {
+    "envelope": {
+      "id": "bd35a46d-b4b2-4a62-a555-3de2e5423cc3",
+      "event": "instance.connection",
+      "timestamp": "2026-11-16T01:14:25.685Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "status": "disconnected",
+        "reason": "QR refs attempts ended"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794791665686
+  },
+  {
+    "envelope": {
+      "id": "c8be2f65-f383-445d-9dd6-3a6a1e418adf",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:15:26.454Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@de2nRJc2RIVWU2WPmlg1E675+cmeuJnx7ZFD/2ZpJZdrugTQDc/RKOqUKMrrC2TpYB7FNR6eWnOUTgpAY0wlJ7vVN7bUB//MT3Q=,kQclg/ALWIBWozF8V9rzPCwdnC0d7+1VrBaPu3+/PzM=,aAfgUhz9+duHXTo1gSkdPuKS9UPDMHjGDMjYANTxyik=,IupFoNs7kWVCG4G4eo76dppcV0Zbbs4fdjZ41BYAvfY=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794791726455
+  },
+  {
+    "envelope": {
+      "id": "344ed344-3a31-46e8-a25c-538a3bbf488a",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:16:26.466Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@A8qNqhgRfUDdYNuAdHb+ug8DS2DioCSHp+oqc48uxVCdOx7nnbAvRQlABlMwr/C9KxLhd2Q8qbKsPEc9Fd3xUvN4Yt+9nIEu03M=,kQclg/ALWIBWozF8V9rzPCwdnC0d7+1VrBaPu3+/PzM=,aAfgUhz9+duHXTo1gSkdPuKS9UPDMHjGDMjYANTxyik=,IupFoNs7kWVCG4G4eo76dppcV0Zbbs4fdjZ41BYAvfY=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794791786467
+  },
+  {
+    "envelope": {
+      "id": "7f03745d-8992-4547-9dc8-90cbd9015d57",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:16:46.483Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@mvDV01SOdthr3MrVqpEdAvy1nFnR68zeBgufzZcn81XSblDKvsipWlmZS2xHY4F8G+M+tU431H2/nUz6AzgMsXw4/E7R+w3dQro=,kQclg/ALWIBWozF8V9rzPCwdnC0d7+1VrBaPu3+/PzM=,aAfgUhz9+duHXTo1gSkdPuKS9UPDMHjGDMjYANTxyik=,IupFoNs7kWVCG4G4eo76dppcV0Zbbs4fdjZ41BYAvfY=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794791806484
+  },
+  {
+    "envelope": {
+      "id": "33d14dd6-f594-442b-9d0b-c1f5003dffc7",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:17:06.495Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@Ea4mJsmrXLpwtuv4Vg9mwfQJm57Ebq9uBYToB6162sIOAQzfM9q80Ns/+Ti1exwM64/fjPA0h8mwnf63HHd8PVOFxG50MfYVOxU=,kQclg/ALWIBWozF8V9rzPCwdnC0d7+1VrBaPu3+/PzM=,aAfgUhz9+duHXTo1gSkdPuKS9UPDMHjGDMjYANTxyik=,IupFoNs7kWVCG4G4eo76dppcV0Zbbs4fdjZ41BYAvfY=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794791826496
+  },
+  {
+    "envelope": {
+      "id": "31a43d3d-5586-4484-990a-1bad5a5e3ab0",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:17:26.509Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@NQ7F8i6GVTzFkNzT7RaL8GjQ0o89ZquFNLZb/03+Qrc/0MGp3SPJWzXkSOgkk8aqpWYSAYL3sX7IDYrsqbNZZv+2aQKxz72X3qI=,kQclg/ALWIBWozF8V9rzPCwdnC0d7+1VrBaPu3+/PzM=,aAfgUhz9+duHXTo1gSkdPuKS9UPDMHjGDMjYANTxyik=,IupFoNs7kWVCG4G4eo76dppcV0Zbbs4fdjZ41BYAvfY=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794791846509
+  },
+  {
+    "envelope": {
+      "id": "e632614e-c737-4aea-9894-ba8b9a140dca",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:17:46.517Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@Pwb/ImUnd5alH4/042VC4W6I8t/G0co0WUJWOf2Wl7YOaEhkjs91HPr4b3j1qAN3VOXACZGkhikwtljfSIUNNI/8J4JPhypx9HA=,kQclg/ALWIBWozF8V9rzPCwdnC0d7+1VrBaPu3+/PzM=,aAfgUhz9+duHXTo1gSkdPuKS9UPDMHjGDMjYANTxyik=,IupFoNs7kWVCG4G4eo76dppcV0Zbbs4fdjZ41BYAvfY=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794791866517
+  },
+  {
+    "envelope": {
+      "id": "17909dff-eb63-4349-a579-e8b863267426",
+      "event": "instance.connection",
+      "timestamp": "2026-11-16T01:18:06.813Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "status": "disconnected",
+        "reason": "QR refs attempts ended"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794791886815
+  },
+  {
+    "envelope": {
+      "id": "fb649e93-8205-4c13-b4ab-25a102198e93",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:19:07.775Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@Z0tzuALRcS3K4Peo20Giok4FLMaMQPmKeVBoeB6uiPOlA+ei5ZSbDrQo0EoQ5ONeVLfeb2jFxsLv3FLsA2lG+iprp3fvpTDmWyE=,+wTjvVIwy5w5IhMOp+sDVPMRcM15UezSjX/mlwvjcGE=,3vW1b7m8KDloWX0atEGFqxfQsytzl8xwTi21qO2YaW4=,aDs4nIHnWw6CcSe2tFGqIBxeKmWvI4GUEzBDT9efja8=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794791947776
+  },
+  {
+    "envelope": {
+      "id": "264d7fe5-7157-4be8-9d7c-8e5c529f260e",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:20:07.789Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@5nMUB+FQPPESaXc+A5+Oj6YKdRX6pveZgwB2liKr539DoeYdgwvhKZ0tgfvnvcaDZxXmJ7UWXN24+HbEl11iN2PSEgy7KJ+jiAg=,+wTjvVIwy5w5IhMOp+sDVPMRcM15UezSjX/mlwvjcGE=,3vW1b7m8KDloWX0atEGFqxfQsytzl8xwTi21qO2YaW4=,aDs4nIHnWw6CcSe2tFGqIBxeKmWvI4GUEzBDT9efja8=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794792007790
+  },
+  {
+    "envelope": {
+      "id": "798f933b-e150-4ce1-8e84-5dd9997d1665",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:20:27.800Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@0scmNxalZM/EHP0jz2eq9R7jgUIvNEhdpO2lwe8BK7CknUBF4GIduWCawpajzN6QV0q92bUByGNsHZLPUUaG79OGqDEV+JPaBqo=,+wTjvVIwy5w5IhMOp+sDVPMRcM15UezSjX/mlwvjcGE=,3vW1b7m8KDloWX0atEGFqxfQsytzl8xwTi21qO2YaW4=,aDs4nIHnWw6CcSe2tFGqIBxeKmWvI4GUEzBDT9efja8=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794792027801
+  },
+  {
+    "envelope": {
+      "id": "7c1e9fda-e44e-4e45-9935-3c6a6b3036ec",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:20:47.809Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@05JAJ/7ayHsCqdgjc0GxrdPKdFb1rWNmK0u01/qyvfu5WjdoXGfx6P0e5FYTKDeUrF6FQqCJFIn6y728vlvkFLOXm3sUW1T9b6Y=,+wTjvVIwy5w5IhMOp+sDVPMRcM15UezSjX/mlwvjcGE=,3vW1b7m8KDloWX0atEGFqxfQsytzl8xwTi21qO2YaW4=,aDs4nIHnWw6CcSe2tFGqIBxeKmWvI4GUEzBDT9efja8=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794792047810
+  },
+  {
+    "envelope": {
+      "id": "4ae4342d-8952-4b77-80a6-9f859a58f024",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:21:07.842Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@NiUdryWf1IMnNtUmLUlddYkbkQ+RRguw6nI2QdGWfiKeEFArcM0lFxlZ9qzpMjgP1RJ3DgpYtyVr4h11eUcZjt0ANwfclp5kfuI=,+wTjvVIwy5w5IhMOp+sDVPMRcM15UezSjX/mlwvjcGE=,3vW1b7m8KDloWX0atEGFqxfQsytzl8xwTi21qO2YaW4=,aDs4nIHnWw6CcSe2tFGqIBxeKmWvI4GUEzBDT9efja8=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794792067843
+  },
+  {
+    "envelope": {
+      "id": "4e5266c0-8015-431d-9a0b-863d47899b9d",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:21:27.862Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@VyKsaDyTj3lWHJw9MRiITRLOilLB/Tobh5tEIz8qa1ejZi34Zl/NJ5flXUEvT4EawV0it9Q7ao/PhaetG1SOCS6Dq/m901at+tw=,+wTjvVIwy5w5IhMOp+sDVPMRcM15UezSjX/mlwvjcGE=,3vW1b7m8KDloWX0atEGFqxfQsytzl8xwTi21qO2YaW4=,aDs4nIHnWw6CcSe2tFGqIBxeKmWvI4GUEzBDT9efja8=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794792087863
+  },
+  {
+    "envelope": {
+      "id": "79dd4040-620f-45c5-8757-ed544e3406ed",
+      "event": "instance.connection",
+      "timestamp": "2026-11-16T01:21:48.238Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "status": "disconnected",
+        "reason": "QR refs attempts ended"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794792108239
+  },
+  {
+    "envelope": {
+      "id": "8243ba83-789c-4008-bb51-b4a60daec9f4",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:22:49.260Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@Nli7fPzxeC1PcPd2h3f0hgFIUHvRJuyUuWdoOLlmSbSjokeIXpa8LGH5TkykNtEnIbPcXZOegL50YdEPL2pBMf7XzPzsFcXYkl4=,YU4FKRgLx2ROI3QpJ/mLL4SJ9dqObi8nRSIW1d5vXl8=,zbdiMeO8f3svIu67PD2aMiA9xqliqcjgidk8ib+PsXk=,KFGPnS95aoxpAmsT7SArJs9lsz0d/cDt8+SOwgZr9KM=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794792169261
+  },
+  {
+    "envelope": {
+      "id": "daef2292-fd6a-46f0-acd1-83d067ac7893",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:23:49.268Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@U+jowolVZH+5ojiNz5EG4b1gzZERPXrP/X2iKKQqpfC1hfrqgvo8EoqqJlTvMNkuxIrw167WqEnr+hSu6Vp+ZxkTtWD2DVgK7FI=,YU4FKRgLx2ROI3QpJ/mLL4SJ9dqObi8nRSIW1d5vXl8=,zbdiMeO8f3svIu67PD2aMiA9xqliqcjgidk8ib+PsXk=,KFGPnS95aoxpAmsT7SArJs9lsz0d/cDt8+SOwgZr9KM=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794792229268
+  },
+  {
+    "envelope": {
+      "id": "e1bbbbb0-abca-4243-80f8-56e282eed5db",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:24:09.286Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@mogWBE5Q+FjrWp8qLdGxrHIVScCMcVFSFB5+7XGUFHq4sXB8AWaBYbx4Uj2syC3JPANpK3RUbrJzCKE+g/rAABcsnyzpatKW9GE=,YU4FKRgLx2ROI3QpJ/mLL4SJ9dqObi8nRSIW1d5vXl8=,zbdiMeO8f3svIu67PD2aMiA9xqliqcjgidk8ib+PsXk=,KFGPnS95aoxpAmsT7SArJs9lsz0d/cDt8+SOwgZr9KM=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794792249287
+  },
+  {
+    "envelope": {
+      "id": "054bc3ce-68a3-435d-89d2-abc112dbc923",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:24:29.303Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@BmbX9gKq9JTwYoH0vQPKmA0JNtsaY49ocoJoTJOIDdfDus03y1EeUJl5hMQOEcNxgaCZZtrkMlFyKitejYiyavWrdQfqiYxmFsc=,YU4FKRgLx2ROI3QpJ/mLL4SJ9dqObi8nRSIW1d5vXl8=,zbdiMeO8f3svIu67PD2aMiA9xqliqcjgidk8ib+PsXk=,KFGPnS95aoxpAmsT7SArJs9lsz0d/cDt8+SOwgZr9KM=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794792269304
+  },
+  {
+    "envelope": {
+      "id": "c85bb079-be7b-479e-8b21-d2b0bf48d05e",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:24:49.314Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@Bn2gqBOwvowgODW3etJHfw6D3cFaS7rTNn2ALW4MQgF99nmlS61C8hhdZsCpWfCFesuKYRBJD0dReI0898UFeapqkOahQYrgUUE=,YU4FKRgLx2ROI3QpJ/mLL4SJ9dqObi8nRSIW1d5vXl8=,zbdiMeO8f3svIu67PD2aMiA9xqliqcjgidk8ib+PsXk=,KFGPnS95aoxpAmsT7SArJs9lsz0d/cDt8+SOwgZr9KM=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794792289314
+  },
+  {
+    "envelope": {
+      "id": "012211c5-329f-4216-938a-1970c7e247c0",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:25:09.336Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@eSkQQUrD4lb7esa2Ab3bj+tbu7M5CHHLMHrZT69cQ8aH8HkFx+hwW0ETl718iI+Ib4dMwNNKWRSiFdXvmw6rB/gs7adelgCN2BY=,YU4FKRgLx2ROI3QpJ/mLL4SJ9dqObi8nRSIW1d5vXl8=,zbdiMeO8f3svIu67PD2aMiA9xqliqcjgidk8ib+PsXk=,KFGPnS95aoxpAmsT7SArJs9lsz0d/cDt8+SOwgZr9KM=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794792309337
+  },
+  {
+    "envelope": {
+      "id": "a31ae354-003c-4652-bd6b-38749309ef8f",
+      "event": "instance.connection",
+      "timestamp": "2026-11-16T01:25:29.740Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "status": "disconnected",
+        "reason": "QR refs attempts ended"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794792329741
+  },
+  {
+    "envelope": {
+      "id": "1c85604a-3007-4144-8088-ccba6b46b4d5",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:26:30.628Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@m/RUJb574bn71EKYY4rQ4mGrh5Ttm9slKbUZoviX18IO+k1zCaUlPlVCUNJkWcGHEDbmC+yjfb2t28ZGgcPl7N5kXPpXGEb/bkI=,t2p14mBAW0/kwW3l49jlE461s40VAEt/y05qnxlrvzc=,1Gq58bEpOiyiltdIL3QWnkMMucAY9FGnq6mHUp5tmwU=,zcXxCgAzMJQ0mn9HnoHsH03lvCm5an7kxIpu8d/WHzU=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794792390629
+  },
+  {
+    "envelope": {
+      "id": "efaeb940-9d95-4800-9091-b8a57e14ad46",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:27:30.636Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@B0v8ji0G0Mj/WSlrz3Ii1Rhi5GzPCrCfTOaxRpIKtRqq2D6h6+fBQbFK32PwJYCkajv4Or7sDCqePvH6EfnXIso+15NlZzS2mi8=,t2p14mBAW0/kwW3l49jlE461s40VAEt/y05qnxlrvzc=,1Gq58bEpOiyiltdIL3QWnkMMucAY9FGnq6mHUp5tmwU=,zcXxCgAzMJQ0mn9HnoHsH03lvCm5an7kxIpu8d/WHzU=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794792450637
+  },
+  {
+    "envelope": {
+      "id": "06dcfc88-e3e6-4a28-ad7f-e1d4431aca31",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:27:50.648Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@7uetw02yW+dOeQ+ckdMcOozI7UU4u8Dptg55uHwurfJcclroXTGiSpxDEt99HQphXq+H0HoSNqDpvo+FYxMr0w2YloxggZwbPqM=,t2p14mBAW0/kwW3l49jlE461s40VAEt/y05qnxlrvzc=,1Gq58bEpOiyiltdIL3QWnkMMucAY9FGnq6mHUp5tmwU=,zcXxCgAzMJQ0mn9HnoHsH03lvCm5an7kxIpu8d/WHzU=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794792470649
+  },
+  {
+    "envelope": {
+      "id": "b0fccc3c-8ae1-4b95-aa5a-441c85525886",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:28:10.677Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@8LW4Mraeb7BUxfafXRanAWjxieRN03VniKxR1RRSHnkoyK+lc5uK2fI3PtIIPkl9MS01E7HgTuH+PEpGPp4BQ6E70Zin9vvXddQ=,t2p14mBAW0/kwW3l49jlE461s40VAEt/y05qnxlrvzc=,1Gq58bEpOiyiltdIL3QWnkMMucAY9FGnq6mHUp5tmwU=,zcXxCgAzMJQ0mn9HnoHsH03lvCm5an7kxIpu8d/WHzU=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794792490678
+  },
+  {
+    "envelope": {
+      "id": "28532e7e-9cac-47ac-9c6c-504c091b7072",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:28:30.682Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@kPgW3ITmhI9RTgEb8XQAwen+s+bKa72UKFGNjipvNB6Q7PDp6XqPqTy7WlkJqDSs/Ny7GZjD8JPwvO5Ug+sJLMf6Ig8ky0ZLtHQ=,t2p14mBAW0/kwW3l49jlE461s40VAEt/y05qnxlrvzc=,1Gq58bEpOiyiltdIL3QWnkMMucAY9FGnq6mHUp5tmwU=,zcXxCgAzMJQ0mn9HnoHsH03lvCm5an7kxIpu8d/WHzU=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794792510684
+  },
+  {
+    "envelope": {
+      "id": "d7b9e491-8172-4046-9604-e833a93bcd27",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:28:50.699Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@hsxKfn4V4I9vYqfUt+QPfERRnAwpZAj4mdhXidTho4PcvXTIX6vX9S6pdxgM/oNgky8k5KKNSEg98V1qw3+RRs7BbAg0DKbNySg=,t2p14mBAW0/kwW3l49jlE461s40VAEt/y05qnxlrvzc=,1Gq58bEpOiyiltdIL3QWnkMMucAY9FGnq6mHUp5tmwU=,zcXxCgAzMJQ0mn9HnoHsH03lvCm5an7kxIpu8d/WHzU=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794792530700
+  },
+  {
+    "envelope": {
+      "id": "04050e95-ea54-49fd-a6b5-cfe7e5f195e3",
+      "event": "instance.connection",
+      "timestamp": "2026-11-16T01:29:11.040Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "status": "disconnected",
+        "reason": "QR refs attempts ended"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794792551041
+  },
+  {
+    "envelope": {
+      "id": "9e3d03fe-fefa-4f17-8a0d-e4398a14cb44",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:30:12.093Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@KoLLgMPQw+N4oFcXU0GF+cJx39Xw9FndYKcUqLXlmS+ri16BnAhIUbMmin5EUmjtRxbi9us/1qaGMoXkTxSRYjw2mKTWZ/1A1zw=,siyUJsKh0Twjf8n7NNrPwAfhNSb82uvgXFa1RE3kwgg=,6v4E+whGzNy7fCOpqfQiE42Br4NyeMdNqLtY4pUUBhk=,EQnuaTA122IrLAfOWoD7T2E/KrDxeRO/mAZkMFbvrvA=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794792612094
+  },
+  {
+    "envelope": {
+      "id": "263b2b65-e5cd-4ffd-888a-be01cd5abb25",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:31:12.113Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@Ut+nym0CkIhj8Olbtwe9BT64F1Wynj5R53C9PuBrFHCBsPIGqFigivVoIh371P1srDdxoPL4005ZYzKX3RNMySOMGR/Prplpx/c=,siyUJsKh0Twjf8n7NNrPwAfhNSb82uvgXFa1RE3kwgg=,6v4E+whGzNy7fCOpqfQiE42Br4NyeMdNqLtY4pUUBhk=,EQnuaTA122IrLAfOWoD7T2E/KrDxeRO/mAZkMFbvrvA=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794792672114
+  },
+  {
+    "envelope": {
+      "id": "7eff8c43-7365-4459-88a6-0e48b195ef61",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:31:32.125Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@KofnZ6pzEq9suMBCwC0Q4d01D/ulRg0iVgZ6KgAZUjp4QPuTqtK2Jsm03eGYnytLB5fs5DDli5DoChwNi2t5rdkt4n5VNAqE00I=,siyUJsKh0Twjf8n7NNrPwAfhNSb82uvgXFa1RE3kwgg=,6v4E+whGzNy7fCOpqfQiE42Br4NyeMdNqLtY4pUUBhk=,EQnuaTA122IrLAfOWoD7T2E/KrDxeRO/mAZkMFbvrvA=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794792692126
+  },
+  {
+    "envelope": {
+      "id": "2a3e8a45-da7a-4186-b271-fc6876f8bb89",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:31:52.145Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@gs+2A5mNHmfScnKEuunV9Y4MYGOm4u165jJUnR1kUTRMnKMePNUxz0Le5u1fzA9eeXu1Dl9E9uk5H7eV457FWT3EgH5lWjjITTI=,siyUJsKh0Twjf8n7NNrPwAfhNSb82uvgXFa1RE3kwgg=,6v4E+whGzNy7fCOpqfQiE42Br4NyeMdNqLtY4pUUBhk=,EQnuaTA122IrLAfOWoD7T2E/KrDxeRO/mAZkMFbvrvA=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794792712146
+  },
+  {
+    "envelope": {
+      "id": "b37b2036-6c8a-48a4-aff9-f16fd9491b55",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:32:12.168Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@PovTK9TJH1J9bXn7ocpbgmfWF7iJ9gdj1EkYCwnxR/M3qIKiHPC2kZSYYtZqMJSwifsGfJ7T3RfBxJlyK6f+BvmZZSCXdcBhQaA=,siyUJsKh0Twjf8n7NNrPwAfhNSb82uvgXFa1RE3kwgg=,6v4E+whGzNy7fCOpqfQiE42Br4NyeMdNqLtY4pUUBhk=,EQnuaTA122IrLAfOWoD7T2E/KrDxeRO/mAZkMFbvrvA=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794792732169
+  },
+  {
+    "envelope": {
+      "id": "1fc4c7d6-54f7-4332-8f09-2627cb4f991a",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:32:32.178Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@G2HyUN92pHJU+7103EPyH3h1+sNaseHXspRm2/pQu7D1C4g9kVR94dLU2H1EMIdWPnEWTQ46aSiJMaVHmaaVHBPdtI+hd1n5ncs=,siyUJsKh0Twjf8n7NNrPwAfhNSb82uvgXFa1RE3kwgg=,6v4E+whGzNy7fCOpqfQiE42Br4NyeMdNqLtY4pUUBhk=,EQnuaTA122IrLAfOWoD7T2E/KrDxeRO/mAZkMFbvrvA=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794792752179
+  },
+  {
+    "envelope": {
+      "id": "d3d4a6b8-04a8-4175-8de1-9bac4a14a5be",
+      "event": "instance.connection",
+      "timestamp": "2026-11-16T01:32:52.587Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "status": "disconnected",
+        "reason": "QR refs attempts ended"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794792772588
+  },
+  {
+    "envelope": {
+      "id": "ec4c1fe7-473d-4b29-983d-9573c9063604",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:33:53.825Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@I+RAMFR23ziw3HhGS99AsuvQ/51a33klytN4C62+19gGr8WTT/NbxZw0gjinxdD0OPkWkVpP/Yxhev+paDdCo9DI8wAO0Fyk3aI=,21BI8S9cDu8wshh8XrpbFLQ22323ivEDcvukmPbR01I=,RUkGtOJlhb00qUQrlXEicZ02EU9oCR/7M6IfkFnZD3s=,BMElsJOVcmEa3CJsQtwQg/GsJIt0Yl5s7skJXCfwj/U=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794792833827
+  },
+  {
+    "envelope": {
+      "id": "cfd4546b-83e1-4a57-80ba-48c20d4abcb0",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:34:53.838Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@Sb7HRIhqP0oZc3qhFUa+wXGFofpa6F3eTV43Hf6uFyTYuWQrJF88988mi60j/oGm1meUFDKOBOk+m1+gTZFQD3vuv1WuHGh0amM=,21BI8S9cDu8wshh8XrpbFLQ22323ivEDcvukmPbR01I=,RUkGtOJlhb00qUQrlXEicZ02EU9oCR/7M6IfkFnZD3s=,BMElsJOVcmEa3CJsQtwQg/GsJIt0Yl5s7skJXCfwj/U=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794792893838
+  },
+  {
+    "envelope": {
+      "id": "911a06a3-6c57-4c11-9c6a-df6a093d683f",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:35:13.858Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@83CqwITrQ1piuMW9Jeng6sJKZFa44IvzhursBTQFYSzLGq9LbvQZ8kMapYjlTNQi+iQ8sj4hOT5/r0heuVBhsHylQOdvgyO4yGc=,21BI8S9cDu8wshh8XrpbFLQ22323ivEDcvukmPbR01I=,RUkGtOJlhb00qUQrlXEicZ02EU9oCR/7M6IfkFnZD3s=,BMElsJOVcmEa3CJsQtwQg/GsJIt0Yl5s7skJXCfwj/U=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794792913858
+  },
+  {
+    "envelope": {
+      "id": "99b8b28f-3d6a-48f1-892b-82b1e4dc416e",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:35:33.872Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@c8ZvwXrVI+Zx74Ip+luByy/aSO26AINaUHWkb/aYHLJ+AX8eB2CNTKxj8bMbmDN9ydji129Yzpp+eAPfCoJ30/mjCUXDQP2E6aE=,21BI8S9cDu8wshh8XrpbFLQ22323ivEDcvukmPbR01I=,RUkGtOJlhb00qUQrlXEicZ02EU9oCR/7M6IfkFnZD3s=,BMElsJOVcmEa3CJsQtwQg/GsJIt0Yl5s7skJXCfwj/U=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794792933873
+  },
+  {
+    "envelope": {
+      "id": "14b7bd6f-1460-4402-9ec6-d763ed6517f3",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:35:53.881Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@LACDR2tvl+WLTtFTtuF3YrThMm8dpkmp7K0mu+OLzc//U0vqc7FMb8jnFoGJ/mdhrkLMU8dhjIvJsprVoPZj42VWNFF151fQE8A=,21BI8S9cDu8wshh8XrpbFLQ22323ivEDcvukmPbR01I=,RUkGtOJlhb00qUQrlXEicZ02EU9oCR/7M6IfkFnZD3s=,BMElsJOVcmEa3CJsQtwQg/GsJIt0Yl5s7skJXCfwj/U=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794792953882
+  },
+  {
+    "envelope": {
+      "id": "0492ee40-d567-4d38-a3ef-4af69a6f5754",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:36:13.896Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@qoZv6UVDD08UK+kWttBl/rOWTKx1xQ+DwvZ5gmjRCL1pchroz8oEOKxHKF5vMKdkdB0mhot23LkJ8Ry4qLpqcfrtj5LXGVFDtXU=,21BI8S9cDu8wshh8XrpbFLQ22323ivEDcvukmPbR01I=,RUkGtOJlhb00qUQrlXEicZ02EU9oCR/7M6IfkFnZD3s=,BMElsJOVcmEa3CJsQtwQg/GsJIt0Yl5s7skJXCfwj/U=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794792973897
+  },
+  {
+    "envelope": {
+      "id": "fb09ad7e-4d00-4d4a-b83c-ee678fc5a54f",
+      "event": "instance.connection",
+      "timestamp": "2026-11-16T01:36:34.261Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "status": "disconnected",
+        "reason": "QR refs attempts ended"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794792994262
+  },
+  {
+    "envelope": {
+      "id": "383a4db7-269d-42da-b2d2-31aeee9ec67e",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:37:35.081Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@J0HAxn9po7zWjUwPwXtmXgxtyQg7HRRciXmBsg57HpHZAf6PLF4xx+5ChD3d3r1A+NAIi+eSNXUFbyDY94cnGSq3ytSwSL0VSRU=,6wO9hutuf8IpoNBlHg+FmsPdCT9X3hcVW5W48o2FHnc=,sUkfsxaXpetMMlqR++AIOtBwfO0EgemXAuxXOSrNPBQ=,l+jdVDv2Gz3w5iMnvdn6Rbgox5K/tevfogutgLgdaMA=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794793055082
+  },
+  {
+    "envelope": {
+      "id": "205e7980-5fa6-413e-8f2c-d148c6ffd7f8",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:38:35.109Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@W0Iye5qJgWEqTvXH+iKF9/166TZN7AEl3WHADYvS42D7q2FsN4xK+nTV/bmk4rFzk+WAdH2ksYzHpg2Ta14cv3z+TEq+LT8B84Q=,6wO9hutuf8IpoNBlHg+FmsPdCT9X3hcVW5W48o2FHnc=,sUkfsxaXpetMMlqR++AIOtBwfO0EgemXAuxXOSrNPBQ=,l+jdVDv2Gz3w5iMnvdn6Rbgox5K/tevfogutgLgdaMA=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794793115110
+  },
+  {
+    "envelope": {
+      "id": "4886cac4-653f-4798-a09e-e53748f46644",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:38:55.123Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@qAjclr6CySOeyYF82R0gp2dHDEc5Ny9qU27TDvbSEUUKnnNm8VV1K6taGB14Kh9Pon41mfYq0tvruC9qtj5GMvwLAiGWzCNc6sU=,6wO9hutuf8IpoNBlHg+FmsPdCT9X3hcVW5W48o2FHnc=,sUkfsxaXpetMMlqR++AIOtBwfO0EgemXAuxXOSrNPBQ=,l+jdVDv2Gz3w5iMnvdn6Rbgox5K/tevfogutgLgdaMA=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794793135124
+  },
+  {
+    "envelope": {
+      "id": "db1fb35e-997a-40f8-a0e0-31579c9e0d29",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:39:15.131Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@szMrNrcP+pKOtbj8WDBtDrUbVNYzQrCf3FjW6xVBsQ2BCk0AidCL2KhtSuwIQL+k0TWzhpFIfNiEJQNrlar+Nxo/0eR4i22rO14=,6wO9hutuf8IpoNBlHg+FmsPdCT9X3hcVW5W48o2FHnc=,sUkfsxaXpetMMlqR++AIOtBwfO0EgemXAuxXOSrNPBQ=,l+jdVDv2Gz3w5iMnvdn6Rbgox5K/tevfogutgLgdaMA=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794793155131
+  },
+  {
+    "envelope": {
+      "id": "a71f0e10-0fb8-493b-ac7f-6639abc4921b",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:39:35.147Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@gM3A45xrSE1HjffydQOD8WPcZ9RWCyKYqm4+cIFiz2WXZ/UINAcbNYoQmoV6Qnw/R8uNSOPgodp0pRJ3Twm2N7UsbawqzsakvXg=,6wO9hutuf8IpoNBlHg+FmsPdCT9X3hcVW5W48o2FHnc=,sUkfsxaXpetMMlqR++AIOtBwfO0EgemXAuxXOSrNPBQ=,l+jdVDv2Gz3w5iMnvdn6Rbgox5K/tevfogutgLgdaMA=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794793175148
+  },
+  {
+    "envelope": {
+      "id": "7c09d000-5203-471b-9f71-3cf99d93c979",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:39:55.162Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@umans5/rSVosIpd2nNWZyZCPkKwt4Aj+aoaxixH3ju4pW8x4Z+07UW8d05s/WacXndt+DE2ijZSwijAX9XaNyakCS4bLtErPzfg=,6wO9hutuf8IpoNBlHg+FmsPdCT9X3hcVW5W48o2FHnc=,sUkfsxaXpetMMlqR++AIOtBwfO0EgemXAuxXOSrNPBQ=,l+jdVDv2Gz3w5iMnvdn6Rbgox5K/tevfogutgLgdaMA=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794793195163
+  },
+  {
+    "envelope": {
+      "id": "961c4225-c3bf-4164-b3d2-19e2df85a438",
+      "event": "instance.connection",
+      "timestamp": "2026-11-16T01:40:15.486Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "status": "disconnected",
+        "reason": "QR refs attempts ended"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794793215487
+  },
+  {
+    "envelope": {
+      "id": "0dc92219-0a7c-4ae0-a574-6d0b1369acea",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:41:16.329Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@k1Rw2X/6tqwkGM48hVC0sEoA7g6q7JGRnYt1fb8l8r7gZrAjf3t7eyRSzQX64NIke/8NvPpKyur5o/RYYClM9ImR3oK5yaPrNtk=,xb/0XrEMiCOKSxojo9MHSkYBN0/ZRLVXwjNWc852nDs=,zBPTysuco6Jq93USYRC/DJ2HBD8iC53Z6PFYU96ZGgg=,Es76sxN0qW4JvqAod6pZ5g6tG8PUWgz7poY60CEaL80=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794793276329
+  },
+  {
+    "envelope": {
+      "id": "b3094da0-0fda-4735-9126-b97e3df6b7c9",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:42:16.345Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@Y71z+9lAUqYOExImhCH3zgSNZ7ZLIFrtct+es9xAf+j9DF3KmC/S2z9z35B45XUkP8aiwme3vSkDMnwaTA0eWdmcp4C1eTFo7gE=,xb/0XrEMiCOKSxojo9MHSkYBN0/ZRLVXwjNWc852nDs=,zBPTysuco6Jq93USYRC/DJ2HBD8iC53Z6PFYU96ZGgg=,Es76sxN0qW4JvqAod6pZ5g6tG8PUWgz7poY60CEaL80=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794793336347
+  },
+  {
+    "envelope": {
+      "id": "0cd0ab28-6676-419b-81aa-aa4ae4fd94ad",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:42:36.359Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@om30qE8N/KuV4BfjRXcOTGnWuysxZql8l4Tpn8Fupho5u+M0042L8rfnxDTL/PbWVus6pvDjkWdtQCJGHrJo6agrNzz2yii9wc0=,xb/0XrEMiCOKSxojo9MHSkYBN0/ZRLVXwjNWc852nDs=,zBPTysuco6Jq93USYRC/DJ2HBD8iC53Z6PFYU96ZGgg=,Es76sxN0qW4JvqAod6pZ5g6tG8PUWgz7poY60CEaL80=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794793356360
+  },
+  {
+    "envelope": {
+      "id": "b7b41b98-2511-4e0c-8170-c98956e47cdc",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:42:56.376Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@2wdVcmxj8z+BFzv/NCt5MhVmdyCNVxN63gNbowR/DzccG4AhmbC83A2wEx1zNWvfISzdR+oNYRPt255t5rxx2mPAPX7R9V8VdbU=,xb/0XrEMiCOKSxojo9MHSkYBN0/ZRLVXwjNWc852nDs=,zBPTysuco6Jq93USYRC/DJ2HBD8iC53Z6PFYU96ZGgg=,Es76sxN0qW4JvqAod6pZ5g6tG8PUWgz7poY60CEaL80=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794793376377
+  },
+  {
+    "envelope": {
+      "id": "3cbcfdbf-e9fa-40a7-8069-1a92faa84882",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:43:16.389Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@sNK2G6YggJ4RvrVaZ6jvAsCZxMtlDwVSBkyICZKtXWrpA/ahaYfDE+sdO7EmB1x/QhfeSwm2jvuPYg51iO5mxv5plrRf6PpvP8w=,xb/0XrEMiCOKSxojo9MHSkYBN0/ZRLVXwjNWc852nDs=,zBPTysuco6Jq93USYRC/DJ2HBD8iC53Z6PFYU96ZGgg=,Es76sxN0qW4JvqAod6pZ5g6tG8PUWgz7poY60CEaL80=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794793396392
+  },
+  {
+    "envelope": {
+      "id": "6a655f26-982e-4f13-a16d-4b50a00809b6",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:43:36.402Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@yZ3cnwViVsbsrjILFN8J5pDzLlYN4Jcgs/bR7XlVHv9Qk45A88CTOeMB3+PfZEI9f8NMZt0VwqzIznx7pH9BxpMwBNS2pNV6Y2Q=,xb/0XrEMiCOKSxojo9MHSkYBN0/ZRLVXwjNWc852nDs=,zBPTysuco6Jq93USYRC/DJ2HBD8iC53Z6PFYU96ZGgg=,Es76sxN0qW4JvqAod6pZ5g6tG8PUWgz7poY60CEaL80=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794793416403
+  },
+  {
+    "envelope": {
+      "id": "afffe211-3817-4958-ab15-5ca6029a2b23",
+      "event": "instance.connection",
+      "timestamp": "2026-11-16T01:43:56.718Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "status": "disconnected",
+        "reason": "QR refs attempts ended"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794793436720
+  },
+  {
+    "envelope": {
+      "id": "aa0c0fd4-e5ff-4052-95a9-9557c90d0ac0",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:44:57.852Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@Z1zyH7CNDEZsgX4nk9aAgkkM2kvkE9mjGF9oKlerPUXyiOWtOhlJCrTIwi4wqP8dHOlaYDIhjy+Ah50i+3BRO39x6l/ciLJJd+g=,/kyFo8iZaKyCVl8pJicsAm1qexOLzyR2EKZZrfd8oyU=,UWVR3s/LH8s8VVO6SzujG/w7WgUMUnMWJfI0ksgNC3M=,7NlPbE+CzGp26k799U98g8DsLBjOsGeZoSm6MLxEkec=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794793497853
+  },
+  {
+    "envelope": {
+      "id": "4ce7b57c-3508-48a8-a184-e03ca779202f",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:45:57.864Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@MNXRSvcM70T9AAOlPwmLQASWPLk9IPJ54f7CgdbLABiow4JDaHCnKmynTlsuDHNffRABlglG3acVGYR0wq7IfW+jCb9/lkDqWFI=,/kyFo8iZaKyCVl8pJicsAm1qexOLzyR2EKZZrfd8oyU=,UWVR3s/LH8s8VVO6SzujG/w7WgUMUnMWJfI0ksgNC3M=,7NlPbE+CzGp26k799U98g8DsLBjOsGeZoSm6MLxEkec=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794793557865
+  },
+  {
+    "envelope": {
+      "id": "0604e11a-c076-433f-91e9-796166d5f65e",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:46:17.889Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@uuGzrE31iHQHfpuq2zu+4Un098L7la9eddThmdDYTDzVr2ETmOT7Vmx6ztXIde5FU++afc6meNk0jm6/ErqTJNA4E2Z49cho5GY=,/kyFo8iZaKyCVl8pJicsAm1qexOLzyR2EKZZrfd8oyU=,UWVR3s/LH8s8VVO6SzujG/w7WgUMUnMWJfI0ksgNC3M=,7NlPbE+CzGp26k799U98g8DsLBjOsGeZoSm6MLxEkec=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794793577890
+  },
+  {
+    "envelope": {
+      "id": "260720ee-fb2d-4bd7-9aba-383666985ef2",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:46:37.903Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@ODsqdWEq+jEqASFAKdSwAXWV57IcOVp6KVF6YpnO++cxoQyjtc/Sa3Fg5j06UuVsGNGZiO5M7HSV7yv7wQW5nPA9G/6fLcSp/MM=,/kyFo8iZaKyCVl8pJicsAm1qexOLzyR2EKZZrfd8oyU=,UWVR3s/LH8s8VVO6SzujG/w7WgUMUnMWJfI0ksgNC3M=,7NlPbE+CzGp26k799U98g8DsLBjOsGeZoSm6MLxEkec=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794793597912
+  },
+  {
+    "envelope": {
+      "id": "a962601f-8dad-4ef9-b956-bd80e2bcaf32",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:46:57.931Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@VdWoEaCOy1TapTfVCDN4HebpIGkj9oZukKN1dcOymh6laLd2wxHEnMIwNZx0FBhdkYix83MAQgSfahs7hljwVsaosKuz4mqmKpA=,/kyFo8iZaKyCVl8pJicsAm1qexOLzyR2EKZZrfd8oyU=,UWVR3s/LH8s8VVO6SzujG/w7WgUMUnMWJfI0ksgNC3M=,7NlPbE+CzGp26k799U98g8DsLBjOsGeZoSm6MLxEkec=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794793617932
+  },
+  {
+    "envelope": {
+      "id": "5de6af45-3b5c-416f-8c96-fb173ad3a103",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:47:17.946Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@Qhno5L+UUoLvjGit4Q6txK59ZLBKWJ6jsaSmCimpr8AKES96/2cbNWnrSDeHmFRAToNvTyWCuj937ffkLmNy0V6KoStZPc4e3Kg=,/kyFo8iZaKyCVl8pJicsAm1qexOLzyR2EKZZrfd8oyU=,UWVR3s/LH8s8VVO6SzujG/w7WgUMUnMWJfI0ksgNC3M=,7NlPbE+CzGp26k799U98g8DsLBjOsGeZoSm6MLxEkec=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794793637947
+  },
+  {
+    "envelope": {
+      "id": "b3c246c8-be2a-4dc2-b647-d08e8879b61b",
+      "event": "instance.connection",
+      "timestamp": "2026-11-16T01:47:38.272Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "status": "disconnected",
+        "reason": "QR refs attempts ended"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794793658274
+  },
+  {
+    "envelope": {
+      "id": "eace3a7e-46aa-45d2-baf4-2e14eb4b63da",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:48:38.976Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@JcrJuIDHmEZHebTlG9/kq5MT4sOob2mYK9IMSlsj7WaAPGKNXd4KT80kT9BnBZhhMA9vxhlz5c26cJDeLozk2J/heQPR2ovpNUc=,NLZiWeG0dzIP4Y/v6mqyIcxzGkiIkdAd/JD0dR/ALFU=,Xb5GDAKQVhtXwGSJYCyQeiukQSWo2Y5BK4gMDyR6oRU=,SxyCUdeDvGYJR3D97nuCSnzTvBA40xLzjiAby+uGPQQ=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794793718979
+  },
+  {
+    "envelope": {
+      "id": "1316a5ab-92dc-46f8-86d6-e6f42ff643ab",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:49:38.983Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@IkLeFxsiMUIGpQ5ledhrDwEfadJXrUkR6MQkkJpPinLW44liW6G3CRV/rBTI5zWxx649qONIN+hm6AjNjTJtZx7CiUyXlnutj9c=,NLZiWeG0dzIP4Y/v6mqyIcxzGkiIkdAd/JD0dR/ALFU=,Xb5GDAKQVhtXwGSJYCyQeiukQSWo2Y5BK4gMDyR6oRU=,SxyCUdeDvGYJR3D97nuCSnzTvBA40xLzjiAby+uGPQQ=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794793778984
+  },
+  {
+    "envelope": {
+      "id": "d1c12cbf-87e6-471b-9da6-138ca2736048",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:49:59.000Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@8dm3efZIuwEzrOAu3ZmG+n49uPqOafYDfSq2yg3mDeXugJ1aD7yqX5jkt1AjXbUTCRYN3tsGmYZxpHsMIMMuz7CYiTPA4VM6JKc=,NLZiWeG0dzIP4Y/v6mqyIcxzGkiIkdAd/JD0dR/ALFU=,Xb5GDAKQVhtXwGSJYCyQeiukQSWo2Y5BK4gMDyR6oRU=,SxyCUdeDvGYJR3D97nuCSnzTvBA40xLzjiAby+uGPQQ=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794793799001
+  },
+  {
+    "envelope": {
+      "id": "78da0fe4-2ccb-4c5a-9369-11f8e32d6523",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:50:19.012Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@Pr7iRSEHgE2JFHGZuQrpQ8Z+G7Dlib+Hl+xXPgxu7QeoULSveLuPTWEeALur5jlxNJS3hvotHkLWdRCoCstQAZsQmyUNDnzujfk=,NLZiWeG0dzIP4Y/v6mqyIcxzGkiIkdAd/JD0dR/ALFU=,Xb5GDAKQVhtXwGSJYCyQeiukQSWo2Y5BK4gMDyR6oRU=,SxyCUdeDvGYJR3D97nuCSnzTvBA40xLzjiAby+uGPQQ=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794793819013
+  },
+  {
+    "envelope": {
+      "id": "f06d8c39-4dab-4ae5-87b7-a460c57448a0",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:50:39.032Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@OMVr0FCfsldYShk556p35/FZ0leNwtwvxhX0BqkDezCEslM3ky6rx2y5tUsQI1ijgg69J0P5EW6bemZNfUBnsi7UI0BqlzImgIo=,NLZiWeG0dzIP4Y/v6mqyIcxzGkiIkdAd/JD0dR/ALFU=,Xb5GDAKQVhtXwGSJYCyQeiukQSWo2Y5BK4gMDyR6oRU=,SxyCUdeDvGYJR3D97nuCSnzTvBA40xLzjiAby+uGPQQ=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794793839033
+  },
+  {
+    "envelope": {
+      "id": "d872803b-819c-43b2-9ff4-1bf972c805d3",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:50:59.046Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@YL+SLEnxpO0bDWihWtUGEdBVh4PGJTaukKkz+K6VeGiVF/stsVrNGT0feaGByGpdDc0CcqpgKLRs9n56RBvYMWXh6+3d67UBnxE=,NLZiWeG0dzIP4Y/v6mqyIcxzGkiIkdAd/JD0dR/ALFU=,Xb5GDAKQVhtXwGSJYCyQeiukQSWo2Y5BK4gMDyR6oRU=,SxyCUdeDvGYJR3D97nuCSnzTvBA40xLzjiAby+uGPQQ=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794793859047
+  },
+  {
+    "envelope": {
+      "id": "2480d036-d1c0-4790-a0d8-d61f425dbfbf",
+      "event": "instance.connection",
+      "timestamp": "2026-11-16T01:51:19.294Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "status": "disconnected",
+        "reason": "QR refs attempts ended"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794793879294
+  },
+  {
+    "envelope": {
+      "id": "1eb32654-ac6b-4e7f-acc4-e61c6a600ca8",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:52:20.250Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@NHyH7SbH2b9WTP2hdoGxKp3fqAynZQP7IoR/ZJWfLMD2oX7ipf24mePpoeg9IHHXcc0FSlBUmpakv6SA/MoIUhUM/FO7GGs//Bk=,rYJVUn0MqTRDdGYKPSvAwAfQ5a2Z4sZ94bIERsLWqBw=,S50FE5Bm6kN3CGgRjnSqDdA3NYyMbfnVk292cWcr0Xc=,uQLrDOeGt3tUWHM6kW2CL2agJ9WaQDVXPzN9B40R6BU=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794793940251
+  },
+  {
+    "envelope": {
+      "id": "f9c5b06c-48e7-414c-9ddd-9ed0dc16dcf7",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:53:20.272Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@X+wUL27iPieEFjR0wT6Vg0l9WAUoVGEWquN0mZxOhl+vNN3y/SIxKYcVC1cjsjNva4dtb6iLDZaH76z8rb4R2PCOkWjDUV+H3VI=,rYJVUn0MqTRDdGYKPSvAwAfQ5a2Z4sZ94bIERsLWqBw=,S50FE5Bm6kN3CGgRjnSqDdA3NYyMbfnVk292cWcr0Xc=,uQLrDOeGt3tUWHM6kW2CL2agJ9WaQDVXPzN9B40R6BU=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794794000273
+  },
+  {
+    "envelope": {
+      "id": "07609b03-04c5-4b3f-b342-175ed0eb53d1",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:53:40.280Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@mG1LNUsGijBLREEqnqgTS1NltIfDfQJh2sc3n6losZaP2XpvN1Cb+nB129vdr4cp/HeF0kvahLxWHtGd80ivpF0Z+96cVGywBrw=,rYJVUn0MqTRDdGYKPSvAwAfQ5a2Z4sZ94bIERsLWqBw=,S50FE5Bm6kN3CGgRjnSqDdA3NYyMbfnVk292cWcr0Xc=,uQLrDOeGt3tUWHM6kW2CL2agJ9WaQDVXPzN9B40R6BU=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794794020281
+  },
+  {
+    "envelope": {
+      "id": "c33bae5c-1dd6-49a4-8cbc-5389504cb79b",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:54:00.288Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@aAzl+Jlf8HmzhR7OPrDifMwvJMKbBsZHzM9TuNPbYOQfI9rgs2ufetWTf533lngwNlCSrrcdbEz2rBhMSJieJ/kzsA9mwfnWqMA=,rYJVUn0MqTRDdGYKPSvAwAfQ5a2Z4sZ94bIERsLWqBw=,S50FE5Bm6kN3CGgRjnSqDdA3NYyMbfnVk292cWcr0Xc=,uQLrDOeGt3tUWHM6kW2CL2agJ9WaQDVXPzN9B40R6BU=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794794040289
+  },
+  {
+    "envelope": {
+      "id": "06fc8dae-e208-4c10-8392-93b3fe72a4d3",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:54:20.300Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@bUbMr1bgzLPtYYLMw4gjRPql9aVmqRN7JzXGDwaIBWPs2HLWJTvMKiOQNfuS1UHs7Ahli1PI4WEpzSaCo0Lt7J3bHh71AAsSbiQ=,rYJVUn0MqTRDdGYKPSvAwAfQ5a2Z4sZ94bIERsLWqBw=,S50FE5Bm6kN3CGgRjnSqDdA3NYyMbfnVk292cWcr0Xc=,uQLrDOeGt3tUWHM6kW2CL2agJ9WaQDVXPzN9B40R6BU=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794794060301
+  },
+  {
+    "envelope": {
+      "id": "c7732cab-73e4-469b-8125-cbe7c83583fc",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:54:40.309Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@xqPHInW7hAGAuvizr7jYlqPsVHTUmQvZcPg1jmHfvksGR4vGdYVoj/RTyQXBNWsP/lMYVDn8MmD8o76rbM5Rfvpnt6nhDGerSvw=,rYJVUn0MqTRDdGYKPSvAwAfQ5a2Z4sZ94bIERsLWqBw=,S50FE5Bm6kN3CGgRjnSqDdA3NYyMbfnVk292cWcr0Xc=,uQLrDOeGt3tUWHM6kW2CL2agJ9WaQDVXPzN9B40R6BU=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794794080309
+  },
+  {
+    "envelope": {
+      "id": "61b29a97-5ccc-48e9-9d9d-dc1feb3e50eb",
+      "event": "instance.connection",
+      "timestamp": "2026-11-16T01:55:00.674Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "status": "disconnected",
+        "reason": "QR refs attempts ended"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794794100675
+  },
+  {
+    "envelope": {
+      "id": "f5fd634e-2c67-4023-99f6-86aa5a590d34",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:56:01.505Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@eGNasUDxL58flON0PSAonTxTIpM4Avl9bxOnhyY44y8nCx4WKbNYdHQi6O48oG3FD7Rn2vSuwpwqkaMtZq9JkjMKVyoy/LihUEA=,fKq77g2XoP3V88hkFP4bUHpMM6M8UB4KMgXUgU9NUS0=,7ewQo4J5RYahZo7kteAUJ3wxdnjBNM+M5AyDBxW1XW4=,6CtsbEiE6sDUZlP+JZtRID9rKamri/QmsA5hJIX/jk0=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794794161506
+  },
+  {
+    "envelope": {
+      "id": "69269b51-2821-4560-bfd4-0e9f879f2da8",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:57:01.512Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@6sHC4pEWu1mQMk+AAlxN0DCt1x1/FgEBYykQoolrqI0rhYLLT2mSvSRMbpYIqayOlwSkexsZETCvGgh2ELlCmznyaV1PsdwiAD0=,fKq77g2XoP3V88hkFP4bUHpMM6M8UB4KMgXUgU9NUS0=,7ewQo4J5RYahZo7kteAUJ3wxdnjBNM+M5AyDBxW1XW4=,6CtsbEiE6sDUZlP+JZtRID9rKamri/QmsA5hJIX/jk0=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794794221513
+  },
+  {
+    "envelope": {
+      "id": "d8668cb5-149d-46a4-882c-cc4438f0d5f1",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:57:21.533Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@tq75U0kI9+gYd1NSLPLIihjLEqFsN/q4ZceJ/Jo83J/n8IlFYo+4ATwHtT1k5qZvOBS1Ffz0TJa+4rrkGE7vCmT2uoa9Q5WV28E=,fKq77g2XoP3V88hkFP4bUHpMM6M8UB4KMgXUgU9NUS0=,7ewQo4J5RYahZo7kteAUJ3wxdnjBNM+M5AyDBxW1XW4=,6CtsbEiE6sDUZlP+JZtRID9rKamri/QmsA5hJIX/jk0=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794794241534
+  },
+  {
+    "envelope": {
+      "id": "82d87c77-423f-410d-8aed-f949e1536465",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:57:41.553Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@gRS6PHRKGDSJPLzjV8KEBjvg5hlAnvQgFwEMOHSvLHACjqQdWUWQEpbytdBRZsmfbLDr9EZ3hb7riM4mT950zJF1I8diuMzxZPk=,fKq77g2XoP3V88hkFP4bUHpMM6M8UB4KMgXUgU9NUS0=,7ewQo4J5RYahZo7kteAUJ3wxdnjBNM+M5AyDBxW1XW4=,6CtsbEiE6sDUZlP+JZtRID9rKamri/QmsA5hJIX/jk0=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794794261554
+  },
+  {
+    "envelope": {
+      "id": "e189f257-3881-4bd9-bfe1-7abf090260b8",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:58:01.562Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@ssBZM+un9rQA0gMLZzxUcW6EyBn35BSj/rwtmLAkn+Hni8rvuJxqAJ45b+l2tXEdxE9q1YA9vGvT5BOzrHFDCyCEVTsj+BsmyoA=,fKq77g2XoP3V88hkFP4bUHpMM6M8UB4KMgXUgU9NUS0=,7ewQo4J5RYahZo7kteAUJ3wxdnjBNM+M5AyDBxW1XW4=,6CtsbEiE6sDUZlP+JZtRID9rKamri/QmsA5hJIX/jk0=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794794281563
+  },
+  {
+    "envelope": {
+      "id": "28e2d48f-b2e9-4b2f-a49c-548c891abb36",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:58:21.570Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@DJbIAN6oeihH5qZLbFLqt8S1sw/mF5NvxGe8lBARJLVtcRlJG9Ojxn/5gwtrpXUbh3lWcmrCCHviH0/Jbr8Zt8bDmZwnc0Hjvkk=,fKq77g2XoP3V88hkFP4bUHpMM6M8UB4KMgXUgU9NUS0=,7ewQo4J5RYahZo7kteAUJ3wxdnjBNM+M5AyDBxW1XW4=,6CtsbEiE6sDUZlP+JZtRID9rKamri/QmsA5hJIX/jk0=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794794301571
+  },
+  {
+    "envelope": {
+      "id": "d41296a1-31d9-4185-ae9a-9fa36a2effdb",
+      "event": "instance.connection",
+      "timestamp": "2026-11-16T01:58:41.863Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "status": "disconnected",
+        "reason": "QR refs attempts ended"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794794321864
+  },
+  {
+    "envelope": {
+      "id": "e6673288-29e8-45f8-962f-da9c83452f04",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T01:59:42.487Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@aoaR/5CUgJY9hpRGckRZvQmh/lrHAWffeblyfU+VXnpaMEp7Cy6t6UmAfYxVOxYZzBnrpVnDRy58X82pD34VXrzeXJmxb0U1mIs=,Bd9U/lpabf09YaEWjL4L8k9r/NHXo19RXcSFFR6a8go=,+HV9rb7wGLylol4YVY1Q3xBqjAWKJKGWHj5qemnYJTE=,cInzYjSCQS8l8crESMvXMCTLNGddWLHd1Q8gKtWx/BE=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794794382488
+  },
+  {
+    "envelope": {
+      "id": "f17d2e57-f70e-405f-bcf9-d95527ac4c22",
+      "event": "instance.qr",
+      "timestamp": "2026-11-16T02:00:42.513Z",
+      "data": {
+        "instanceId": "atendimento",
+        "name": "atendimento",
+        "qr": "https://wa.me/settings/linked_devices#2@n3E+OUhuyNx7k1PHX8WMqq1NfFas9anWkWiIUB6pgsxn+NI8Xwb3cKqEQBXraIHzAppJtrOa88mTtPmD5kzJBTt8arJyy0TShmo=,Bd9U/lpabf09YaEWjL4L8k9r/NHXo19RXcSFFR6a8go=,+HV9rb7wGLylol4YVY1Q3xBqjAWKJKGWHj5qemnYJTE=,cInzYjSCQS8l8crESMvXMCTLNGddWLHd1Q8gKtWx/BE=,1"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794794442515
+  },
+  {
+    "envelope": {
+      "id": "f150aaaf-9d0e-451b-9ce5-7f621835b544",
+      "event": "instance.connection",
+      "timestamp": "2026-11-16T02:00:50.413Z",
+      "data": {
+        "instanceId": "wpp",
+        "name": "wpp",
+        "status": "disconnected",
+        "reason": "Stream Errored (ack)"
+      }
+    },
+    "attempts": 0,
+    "nextAttemptAt": 1794794450414
+  }
+]

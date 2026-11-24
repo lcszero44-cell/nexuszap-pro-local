@@ -1,0 +1,4 @@
+{
+  "webhookUrl": "http://localhost:5678/webhook/whatsapp",
+  "webhookSecret": "teste-segredo-123"
+}

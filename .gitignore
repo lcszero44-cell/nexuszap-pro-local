@@ -1,0 +1,129 @@
+# =============================================================================
+# NexusZap Pro Local - .gitignore (WhatsLocal subfolder)
+# Projetado para NUNCA vazar dados sensíveis, sessões ou builds para o GitHub
+# =============================================================================
+
+# -----------------------------------------------------------------------------
+# Sessões e Autenticação do WhatsApp (Baileys) - CRÍTICO: NUNCA COMMITAR
+# -----------------------------------------------------------------------------
+auth_info*/
+auth_info_*/
+baileys_store*/
+sessions/
+*.session*/
+whatsapp-session*/
+
+# -----------------------------------------------------------------------------
+# Bancos de Dados Locais com Dados de Clientes - CRÍTICO: NUNCA COMMITAR
+# -----------------------------------------------------------------------------
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+*.db
+*.db-wal
+*.db-shm
+*.mdb
+*.accdb
+data/*.sqlite
+data/*.db
+data/planilhas/*.xlsx
+data/planilhas/*.xls
+data/planilhas/*.csv
+data/uploads/
+data/uploads/*
+
+# -----------------------------------------------------------------------------
+# Arquivos de Ambiente e Segredos - CRÍTICO: NUNCA COMMITAR
+# -----------------------------------------------------------------------------
+.env
+.env.local
+.env.*.local
+.env.production
+.env.staging
+*.pem
+*.key
+*.crt
+*.cert
+secrets/
+*.secret
+
+# -----------------------------------------------------------------------------
+# Dependências e Builds Pesados
+# -----------------------------------------------------------------------------
+node_modules/
+dist/
+build/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.venv/
+venv/
+env/
+
+# -----------------------------------------------------------------------------
+# Logs e Arquivos de Debug
+# -----------------------------------------------------------------------------
+logs/
+*.log
+*.log.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+trace.log
+debug.log
+
+# -----------------------------------------------------------------------------
+# Cache de Ferramentas e IDEs
+# -----------------------------------------------------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# -----------------------------------------------------------------------------
+# Arquivos de Backup e Zip
+# -----------------------------------------------------------------------------
+*.zip
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+*.bak
+*.backup
+*_backup*/
+NexusZap-Pro-Backup*/
+NexusZap-Pro-Backup*
+
+# -----------------------------------------------------------------------------
+# Testes e Coverage
+# -----------------------------------------------------------------------------
+coverage/
+.nyc_output/
+*.lcov
+
+# -----------------------------------------------------------------------------
+# OS e Sistema
+# -----------------------------------------------------------------------------
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+System Volume Information/
+
+# =============================================================================
+# FIM - Mantenha este arquivo atualizado conforme o projeto evolui
+# =============================================================================

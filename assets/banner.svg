@@ -1,0 +1,391 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360">
+  <defs>
+    <!-- Gradientes profundos cyber-dark green theme -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#020804"/>
+      <stop offset="30%" style="stop-color:#051a0a"/>
+      <stop offset="65%" style="stop-color:#041408"/>
+      <stop offset="100%" style="stop-color:#010602"/>
+    </linearGradient>
+
+    <linearGradient id="neonGreen" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00ff88"/>
+      <stop offset="50%" style="stop-color:#00cc6a"/>
+      <stop offset="100%" style="stop-color:#009950"/>
+    </linearGradient>
+
+    <linearGradient id="neonEmerald" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#10b981"/>
+      <stop offset="50%" style="stop-color:#059669"/>
+      <stop offset="100%" style="stop-color:#047857"/>
+    </linearGradient>
+
+    <linearGradient id="neonTeal" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#14b8a6"/>
+      <stop offset="50%" style="stop-color:#0d9488"/>
+      <stop offset="100%" style="stop-color:#0f766e"/>
+    </linearGradient>
+
+    <linearGradient id="neonLime" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#84cc16"/>
+      <stop offset="50%" style="stop-color:#65a30d"/>
+      <stop offset="100%" style="stop-color:#4d7c0f"/>
+    </linearGradient>
+
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ffffff"/>
+      <stop offset="30%" style="stop-color:#bbf7d0"/>
+      <stop offset="60%" style="stop-color:#86efac"/>
+      <stop offset="100%" style="stop-color:#4ade80"/>
+    </linearGradient>
+
+    <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00ff88"/>
+      <stop offset="50%" style="stop-color:#10b981"/>
+      <stop offset="100%" style="stop-color:#14b8a6"/>
+    </linearGradient>
+
+    <linearGradient id="qrGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00ff88" stop-opacity="0.3"/>
+      <stop offset="50%" style="stop-color:#00ff88" stop-opacity="0.8"/>
+      <stop offset="100%" style="stop-color:#00ff88" stop-opacity="0.3"/>
+    </linearGradient>
+
+    <!-- Glow filters -->
+    <filter id="glowStrong" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="glowSoft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="textGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#00ff88" flood-opacity="0.9" result="glowColor"/>
+      <feComposite in="glowColor" in2="blur" operator="in" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="dropShadow3D" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="6" dy="10" stdDeviation="8" flood-color="#000000" flood-opacity="0.7"/>
+    </filter>
+
+    <!-- Matrix rain pattern -->
+    <pattern id="matrixPattern" width="100" height="100" patternUnits="userSpaceOnUse">
+      <g font-family="'JetBrains Mono', monospace" font-size="10" fill="url(#neonGreen)" opacity="0.04">
+        <text x="10" y="20">0</text>
+        <text x="30" y="45">1</text>
+        <text x="60" y="15">0</text>
+        <text x="80" y="60">1</text>
+        <text x="15" y="75">1</text>
+        <text x="45" y="90">0</text>
+        <text x="70" y="35">1</text>
+        <text x="90" y="80">0</text>
+      </g>
+    </pattern>
+
+    <!-- Circuit board pattern -->
+    <pattern id="circuitPattern" width="80" height="80" patternUnits="userSpaceOnUse">
+      <rect x="0" y="40" width="80" height="1" fill="url(#neonGreen)" opacity="0.06"/>
+      <rect x="40" y="0" width="1" height="80" fill="url(#neonGreen)" opacity="0.06"/>
+      <rect x="20" y="20" width="2" height="2" fill="url(#neonGreen)" opacity="0.1"/>
+      <rect x="60" y="60" width="2" height="2" fill="url(#neonTeal)" opacity="0.1"/>
+    </pattern>
+
+    <!-- Hex grid -->
+    <pattern id="hexGrid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M30,0 L54,17.3 L54,52 L30,69.3 L6,52 L6,17.3 Z" fill="none" stroke="url(#neonGreen)" stroke-width="0.3" opacity="0.08"/>
+    </pattern>
+
+    <clipPath id="textClip">
+      <rect x="0" y="0" width="1280" height="360"/>
+    </clipPath>
+
+    <!-- QR Code style pattern -->
+    <pattern id="qrPattern" width="20" height="20" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="20" height="20" fill="url(#neonGreen)" opacity="0.15"/>
+      <rect x="2" y="2" width="16" height="16" fill="#020804"/>
+      <rect x="4" y="4" width="12" height="12" fill="url(#neonGreen)" opacity="0.3"/>
+      <rect x="6" y="6" width="8" height="8" fill="#020804"/>
+    </pattern>
+  </defs>
+
+  <!-- Background base -->
+  <rect width="1280" height="360" fill="url(#bgGradient)"/>
+
+  <!-- Camadas de padrão -->
+  <g opacity="0.4">
+    <rect width="1280" height="360" fill="url(#matrixPattern)"/>
+    <rect width="1280" height="360" fill="url(#circuitPattern)"/>
+    <rect width="1280" height="360" fill="url(#hexGrid)"/>
+  </g>
+
+  <!-- QR Code animado grande (centro-esquerda) -->
+  <g transform="translate(180, 80)" filter="url(#glowSoft)">
+    <rect x="0" y="0" width="140" height="140" rx="8" fill="#010602" stroke="url(#neonGreen)" stroke-width="3" opacity="0.9"/>
+    <rect x="6" y="6" width="128" height="128" fill="url(#qrPattern)"/>
+    <!-- Finder patterns -->
+    <rect x="10" y="10" width="48" height="48" fill="none" stroke="url(#neonGreen)" stroke-width="4"/>
+    <rect x="16" y="16" width="36" height="36" fill="url(#neonGreen)"/>
+    <rect x="22" y="22" width="24" height="24" fill="#010604"/>
+    <rect x="26" y="26" width="16" height="16" fill="url(#neonGreen)"/>
+
+    <rect x="82" y="10" width="48" height="48" fill="none" stroke="url(#neonGreen)" stroke-width="4"/>
+    <rect x="88" y="16" width="36" height="36" fill="url(#neonGreen)"/>
+    <rect x="94" y="22" width="24" height="24" fill="#010604"/>
+    <rect x="98" y="26" width="16" height="16" fill="url(#neonGreen)"/>
+
+    <rect x="10" y="82" width="48" height="48" fill="none" stroke="url(#neonGreen)" stroke-width="4"/>
+    <rect x="16" y="88" width="36" height="36" fill="url(#neonGreen)"/>
+    <rect x="22" y="94" width="24" height="24" fill="#010604"/>
+    <rect x="26" y="98" width="16" height="16" fill="url(#neonGreen)"/>
+
+    <!-- Alignment pattern -->
+    <rect x="100" y="100" width="28" height="28" fill="none" stroke="url(#neonTeal)" stroke-width="3"/>
+    <rect x="106" y="106" width="16" height="16" fill="url(#neonTeal)"/>
+    <rect x="110" y="110" width="8" height="8" fill="#010604"/>
+
+    <!-- Timing pattern animado -->
+    <g opacity="0.7">
+      <rect x="58" y="10" width="2" height="48" fill="url(#neonGreen)">
+        <animate attributeName="height" values="48;24;48" dur="2s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="10" y="58" width="48" height="2" fill="url(#neonTeal)">
+        <animate attributeName="width" values="48;24;48" dur="2s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+
+  <!-- Elementos 3D isométricos - Dispositivos conectados -->
+  <g filter="url(#dropShadow3D)">
+    <!-- Telefone (Esquerda) -->
+    <g transform="translate(60, 240)">
+      <rect x="0" y="0" width="50" height="90" rx="8" fill="#0a1a0f" stroke="url(#neonGreen)" stroke-width="2" opacity="0.9"/>
+      <rect x="4" y="4" width="42" height="82" rx="5" fill="#020804" stroke="url(#neonEmerald)" stroke-width="0.5" opacity="0.5"/>
+      <!-- Tela com QR mini -->
+      <rect x="8" y="10" width="34" height="50" rx="3" fill="#001a06" stroke="url(#neonGreen)" stroke-width="1"/>
+      <g transform="translate(15, 18)" opacity="0.8">
+        <rect x="0" y="0" width="20" height="20" fill="url(#qrPattern)"/>
+      </g>
+      <!-- Status bar -->
+      <rect x="12" y="68" width="26" height="4" rx="2" fill="url(#neonGreen)" opacity="0.6"/>
+      <circle cx="25" cy="82" r="4" fill="url(#neonLime)" opacity="0.8">
+        <animate attributeName="opacity" values="0.8;0.3;0.8" dur="1.5s" repeatCount="indefinite"/>
+      </circle>
+      <text x="25" y="115" font-family="'JetBrains Mono', monospace" font-weight="600" font-size="9" fill="#4ade80" text-anchor="middle">WhatsApp</text>
+    </g>
+
+    <!-- Servidor Node.js (Centro) -->
+    <g transform="translate(540, 180)" filter="url(#glowStrong)">
+      <rect x="0" y="0" width="200" height="100" rx="6" fill="#051a0a" stroke="url(#neonGreen)" stroke-width="2" opacity="0.95"/>
+      <rect x="4" y="4" width="192" height="92" rx="4" fill="#020804" stroke="url(#neonEmerald)" stroke-width="0.5" opacity="0.5"/>
+
+      <!-- Header -->
+      <text x="100" y="22" font-family="'JetBrains Mono', monospace" font-weight="700" font-size="12" fill="url(#neonGreen)" text-anchor="middle">NEXUSZAP SERVER</text>
+      <text x="100" y="38" font-family="'JetBrains Mono', monospace" font-weight="400" font-size="9" fill="#6ee7b7" text-anchor="middle">Express + Socket.io + Baileys</text>
+
+      <!-- Port badge -->
+      <rect x="100" y="46" width="70" height="20" rx="10" fill="url(#neonGreen)" opacity="0.2" stroke="url(#neonGreen)" stroke-width="1.5"/>
+      <text x="100" y="60" font-family="'JetBrains Mono', monospace" font-weight="700" font-size="10" fill="url(#neonGreen)" text-anchor="middle">:3333</text>
+
+      <!-- Status indicators -->
+      <g transform="translate(20, 70)">
+        <circle cx="0" cy="0" r="5" fill="url(#neonLime)">
+          <animate attributeName="r" values="5;7;5" dur="1s" repeatCount="indefinite"/>
+        </circle>
+        <text x="12" y="4" font-family="'JetBrains Mono', monospace" font-weight="500" font-size="9" fill="#86efac">API Online</text>
+      </g>
+      <g transform="translate(20, 86)">
+        <circle cx="0" cy="0" r="5" fill="url(#neonTeal)">
+          <animate attributeName="opacity" values="1;0.4;1" dur="1.5s" repeatCount="indefinite"/>
+        </circle>
+        <text x="12" y="4" font-family="'JetBrains Mono', monospace" font-weight="500" font-size="9" fill="#5eead4">Socket.io</text>
+      </g>
+      <g transform="translate(130, 70)">
+        <circle cx="0" cy="0" r="5" fill="url(#neonEmerald)">
+          <animate attributeName="r" values="5;7;5" dur="1.2s" repeatCount="indefinite"/>
+        </circle>
+        <text x="12" y="4" font-family="'JetBrains Mono', monospace" font-weight="500" font-size="9" fill="#34d399" text-anchor="end">Baileys</text>
+      </g>
+      <g transform="translate(130, 86)">
+        <circle cx="0" cy="0" r="5" fill="url(#neonTeal)">
+          <animate attributeName="opacity" values="1;0.4;1" dur="1.8s" repeatCount="indefinite"/>
+        </circle>
+        <text x="12" y="4" font-family="'JetBrains Mono', monospace" font-weight="500" font-size="9" fill="#5eead4" text-anchor="end">Webhooks</text>
+      </g>
+
+      <!-- Data flow lines -->
+      <g stroke="url(#accentGradient)" stroke-width="1.5" opacity="0.4" stroke-dasharray="6,4">
+        <line x1="200" y1="30" x2="240" y2="30">
+          <animate attributeName="stroke-dashoffset" values="0;20" dur="1.5s" repeatCount="indefinite"/>
+        </line>
+        <line x1="200" y1="50" x2="240" y2="50">
+          <animate attributeName="stroke-dashoffset" values="10;30" dur="1.5s" repeatCount="indefinite"/>
+        </line>
+        <line x1="200" y1="70" x2="240" y2="70">
+          <animate attributeName="stroke-dashoffset" values="20;40" dur="1.5s" repeatCount="indefinite"/>
+        </line>
+      </g>
+    </g>
+
+    <!-- n8n / Webhook Destination (Direita) -->
+    <g transform="translate(1020, 240)">
+      <rect x="0" y="0" width="80" height="90" rx="8" fill="#0a1a0f" stroke="url(#neonTeal)" stroke-width="2" opacity="0.9"/>
+      <rect x="4" y="4" width="72" height="82" rx="5" fill="#020804" stroke="url(#neonTeal)" stroke-width="0.5" opacity="0.5"/>
+      <!-- n8n logo style -->
+      <g transform="translate(15, 15)">
+        <circle cx="25" cy="25" r="22" fill="none" stroke="url(#neonTeal)" stroke-width="3"/>
+        <path d="M25,8 L25,18 M25,32 L25,42 M8,25 L18,25 M32,25 L42,25" stroke="url(#neonTeal)" stroke-width="3" stroke-linecap="round"/>
+        <circle cx="25" cy="25" r="8" fill="url(#neonTeal)" opacity="0.3"/>
+      </g>
+      <text x="40" y="75" font-family="'JetBrains Mono', monospace" font-weight="700" font-size="9" fill="#2dd4bf" text-anchor="middle">n8n</text>
+      <text x="40" y="88" font-family="'JetBrains Mono', monospace" font-weight="400" font-size="8" fill="#5eead4" text-anchor="middle">Webhook</text>
+      <!-- Incoming data pulse -->
+      <circle cx="40" cy="100" r="6" fill="url(#neonTeal)" opacity="0">
+        <animate attributeName="r" values="6;20;6" dur="2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.8;0;0.8" dur="2s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </g>
+
+  <!-- Partículas de dados fluindo -->
+  <g opacity="0.6">
+    <g transform="translate(260, 150)">
+      <circle cx="0" cy="0" r="3" fill="url(#neonGreen)">
+        <animateMotion path="M0,0 Q140,-20 280,0 Q420,20 560,0" dur="4s" repeatCount="indefinite" rotate="auto"/>
+        <animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g transform="translate(260, 150)">
+      <circle cx="0" cy="0" r="2" fill="url(#neonTeal)">
+        <animateMotion path="M0,0 Q140,20 280,0 Q420,-20 560,0" dur="5s" repeatCount="indefinite" rotate="auto"/>
+        <animate attributeName="opacity" values="0;0.8;0" dur="5s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g transform="translate(260, 150)">
+      <circle cx="0" cy="0" r="2.5" fill="url(#neonEmerald)">
+        <animateMotion path="M0,0 Q140,-10 280,0 Q420,10 560,0" dur="3.5s" repeatCount="indefinite" rotate="auto"/>
+        <animate attributeName="opacity" values="0;1;0" dur="3.5s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g transform="translate(260, 150)">
+      <circle cx="0" cy="0" r="2" fill="url(#neonLime)">
+        <animateMotion path="M0,0 Q140,10 280,0 Q420,-10 560,0" dur="4.5s" repeatCount="indefinite" rotate="auto"/>
+        <animate attributeName="opacity" values="0;0.7;0" dur="4.5s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </g>
+
+  <!-- Linhas de conexão principais -->
+  <g stroke="url(#accentGradient)" stroke-width="2" opacity="0.3" filter="url(#glowSoft)" stroke-dasharray="10,6">
+    <path d="M110,285 Q325,200 540,230" fill="none">
+      <animate attributeName="stroke-dashoffset" values="0;32" dur="3s" repeatCount="indefinite"/>
+    </path>
+    <path d="M740,230 Q880,260 1020,285" fill="none">
+      <animate attributeName="stroke-dashoffset" values="16;48" dur="3s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- Texto Principal - NEXUSZAP -->
+  <g transform="translate(380, 95)" filter="url(#textGlow)">
+    <text x="0" y="0" font-family="'Segoe UI', 'SF Pro Display', 'Roboto', sans-serif"
+          font-weight="900" font-size="64" letter-spacing="-1" fill="url(#textGradient)"
+          clip-path="url(#textClip)">
+      NEXUSZAP
+    </text>
+  </g>
+
+  <!-- Subtítulo PRO LOCAL -->
+  <g transform="translate(380, 160)" filter="url(#glowSoft)">
+    <text x="0" y="0" font-family="'Segoe UI', 'SF Pro Display', 'Roboto', sans-serif"
+          font-weight="600" font-size="20" letter-spacing="4" fill="url(#accentGradient)"
+          clip-path="url(#textClip)">
+      PRO LOCAL
+    </text>
+  </g>
+
+  <!-- Tagline -->
+  <g transform="translate(380, 195)" opacity="0.85">
+    <text x="0" y="0" font-family="'Segoe UI', 'SF Pro Display', 'Roboto', sans-serif"
+          font-weight="400" font-size="15" letter-spacing="0.5" fill="#6ee7b7"
+          clip-path="url(#textClip)">
+      Gateway WhatsApp Web Local  •  API REST + Webhooks n8n  •  Multi-Instância  •  100% Offline
+    </text>
+  </g>
+
+  <!-- Badges inline no banner -->
+  <g transform="translate(380, 235)">
+    <!-- Badge Node.js -->
+    <g filter="url(#glowSoft)">
+      <rect x="0" y="0" width="105" height="28" rx="14" fill="#051a0a" stroke="#00ff88" stroke-width="1" opacity="0.95"/>
+      <text x="52.5" y="19" font-family="'JetBrains Mono', 'Fira Code', monospace"
+            font-weight="600" font-size="11" fill="#00ff88" text-anchor="middle">Node.js 20+</text>
+    </g>
+    <!-- Badge Express -->
+    <g transform="translate(115, 0)" filter="url(#glowSoft)">
+      <rect x="0" y="0" width="95" height="28" rx="14" fill="#051a0a" stroke="#10b981" stroke-width="1" opacity="0.95"/>
+      <text x="47.5" y="19" font-family="'JetBrains Mono', 'Fira Code', monospace"
+            font-weight="600" font-size="11" fill="#10b981" text-anchor="middle">Express</text>
+    </g>
+    <!-- Badge Socket.io -->
+    <g transform="translate(220, 0)" filter="url(#glowSoft)">
+      <rect x="0" y="0" width="105" height="28" rx="14" fill="#051a0a" stroke="#0d9488" stroke-width="1" opacity="0.95"/>
+      <text x="52.5" y="19" font-family="'JetBrains Mono', 'Fira Code', monospace"
+            font-weight="600" font-size="11" fill="#0d9488" text-anchor="middle">Socket.io</text>
+    </g>
+    <!-- Badge Baileys -->
+    <g transform="translate(335, 0)" filter="url(#glowSoft)">
+      <rect x="0" y="0" width="90" height="28" rx="14" fill="#051a0a" stroke="#14b8a6" stroke-width="1" opacity="0.95"/>
+      <text x="45" y="19" font-family="'JetBrains Mono', 'Fira Code', monospace"
+            font-weight="600" font-size="11" fill="#14b8a6" text-anchor="middle">Baileys</text>
+    </g>
+    <!-- Badge React -->
+    <g transform="translate(435, 0)" filter="url(#glowSoft)">
+      <rect x="0" y="0" width="80" height="28" rx="14" fill="#051a0a" stroke="#61dafb" stroke-width="1" opacity="0.95"/>
+      <text x="40" y="19" font-family="'JetBrains Mono', 'Fira Code', monospace"
+            font-weight="600" font-size="11" fill="#61dafb" text-anchor="middle">React</text>
+    </g>
+    <!-- Badge HMAC-SHA256 -->
+    <g transform="translate(525, 0)" filter="url(#glowSoft)">
+      <rect x="0" y="0" width="135" height="28" rx="14" fill="url(#neonTeal)" opacity="0.15" stroke="url(#neonTeal)" stroke-width="2"/>
+      <text x="67.5" y="19" font-family="'JetBrains Mono', 'Fira Code', monospace"
+            font-weight="700" font-size="11" fill="url(#neonTeal)" text-anchor="middle">HMAC-SHA256</text>
+    </g>
+    <!-- Badge Local Only -->
+    <g transform="translate(670, 0)" filter="url(#glowSoft)">
+      <rect x="0" y="0" width="135" height="28" rx="14" fill="url(#neonGreen)" opacity="0.15" stroke="url(#neonGreen)" stroke-width="2"/>
+      <text x="67.5" y="19" font-family="'JetBrains Mono', 'Fira Code', monospace"
+            font-weight="700" font-size="11" fill="url(#neonGreen)" text-anchor="middle">100% LOCAL ONLY</text>
+    </g>
+  </g>
+
+  <!-- Barra decorativa inferior -->
+  <g transform="translate(0, 340)">
+    <rect x="0" y="0" width="1280" height="20" fill="url(#accentGradient)" opacity="0.12"/>
+    <rect x="0" y="0" width="1280" height="2" fill="url(#accentGradient)" opacity="0.5">
+      <animate attributeName="opacity" values="0.5;0.9;0.5" dur="4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- Barras verticais decorativas -->
+  <g opacity="0.35">
+    <rect x="30" y="50" width="3" height="240" fill="url(#neonGreen)" rx="1.5">
+      <animate attributeName="height" values="240;180;240" dur="4s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="1247" y="70" width="3" height="220" fill="url(#neonTeal)" rx="1.5">
+      <animate attributeName="height" values="220;160;220" dur="3.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
